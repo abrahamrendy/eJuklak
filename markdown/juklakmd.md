@@ -609,9 +609,9 @@ masing-masing prodi.
 
 Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
-2.5 Kurikulum Program Studi Matematika
+### 2.5 Kurikulum Program Studi Matematika
 
-2.5.1 Susunan Mata kuliah
+#### 2.5.1 Susunan Mata kuliah
 
   -----------------------------------------------------------------------------------------------------------------
   **Semester 1**                          **Semester 2**
@@ -665,7 +665,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
   ABCXYZ           Pilihan                       
   TOTAL            18                           
 
-2.5.2 Mata kuliah Pilihan Program Studi Matematika
+#### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
 
 Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang
 kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri,
@@ -673,7 +673,7 @@ dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata
 kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan
 tugas akhir.
 
-Kelompok Bidang Kajian: Rekayasa Keuangan
+##### Kelompok Bidang Kajian: Rekayasa Keuangan
 
 | Matematika Asuransi |                                    |     |
 |---------------------|------------------------------------|-----|
@@ -752,11 +752,13 @@ yang berlaku di Program Studi Matematika adalah memilih salah satu
 Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian
 minimal 15 sks.
 
-2.5.3 Peta dan Prasyarat Mata kuliah
+#### 2.5.3 Peta dan Prasyarat Mata kuliah
 
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+![](images/Gambar Peta dan Prasyarat Matakuliah Prodi Mat.jpg)
 
-4.  Deskripsi Singkat Mata kuliah Prodi Matematika
+Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
+
+#### 2.5.4 Deskripsi Singkat Mata kuliah Prodi Matematika
 
 | KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                           |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -774,12 +776,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 | -       | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.                                      |
 | AMS221  | KALKULUS  VEKTOR (VECTOR CALCULUS)                                                                                                                                                                     |
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.                                                                                       |
-![](images/Gambar Peta dan Prasyarat Matakuliah Prodi Mat.jpg)
-
-Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
-
- | KODE MK                | NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                                                                                                                                                                                                                 |
-|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AMS231                 | TEORI  SUKU  BUNGA (THEORY OF INTEREST)                                                                                                                                                                                                                                                                                                                                                      |
 | AMS122                 | Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.                                                                                                                                                                                                                                                                                |
 | AMS251                 | TEORI  PELUANG (PROBABILITY THEORY)                                                                                                                                                                                                                                                                                                                                                          |
@@ -798,9 +794,6 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | AMS122, AMS126         | Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.                                                                                                                                       |
 | AMS273                 | KOMPUTASI MATEMATIKA (COMPUTATIONAL MATHEMATICS)                                                                                                                                                                                                                                                                                                                                             |
 | AMS126, AMS151, AMS221 | Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.                                                                                                                   |
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-| KODE MK               | NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                                                                                                            |
-|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AMS321                | FUNGSI KOMPLEKS (Functions of A Complex Variable)                                                                                                                                                                                                                                       |
 | AMS221                | Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.            |
 | AMS351                | PROSES  STOKASTIK (STOCHASTIC PROCESSES)                                                                                                                                                                                                                                                |
@@ -1016,7 +1009,9 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 #### 2.6.3 Peta dan Prasyarat Matakuliah
 
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+![](images/Gambar Peta dan Prasyarat Matakuliah Prodi Fis.jpg)
+
+Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 #### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
@@ -1030,9 +1025,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 | -       | Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.                  |
 | ICE109  | Kimia Dasar / Chemistry                                                                                                                                                                                                                                                                                                                                                                                 |
 | -       | Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.                                                                                                                                                                                                                          |
-![](images/Gambar Peta dan Prasyarat Matakuliah Prodi Fis.jpg)
 
-Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   KODE MK   NAMA & DESKRIPSI MATA KULIAH
