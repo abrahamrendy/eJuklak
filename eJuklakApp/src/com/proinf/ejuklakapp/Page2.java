@@ -15,6 +15,7 @@ public class Page2 extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.layout2);
+        getIntent().getIntExtra("JUMLAH MENCET", 0);
     }
 
 
