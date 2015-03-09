@@ -1231,126 +1231,84 @@ Aturan tambahan :
 > minimum 35 di mata kuliah tersebut.
 
 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
-
-  -------------------------------------------------------------------------------------------------------
-  KODE     NAMA                         APR   SKS      KODE     NAMA                          APR   SKS
-  -------- ---------------------------- ----- ----- -- -------- ----------------------------- ----- -----
-  AIF330   Kerja Praktek 1                    2        AIF339   Pemodelan Formal                    3
-
-  AIF331   Topik Khusus Informatika 1         2        AIF340   Komputasi Geometri                  3
-
-  AIF332   Topik Khusus Informatika 2         3        AIF341   Adm. Jaringan Komputer 1            3
-
-  AIF333   Topik Khusus Sistem                2        AIF342   Adm. Jaringan Komputer 2            3
-
-           Informasi 1                                 AIF343   Pemrograman Kompetitif              3
-
-  AIF335   Pembelajaran Mesin                 3        AIF344   Pemodelan & Simulasi                3
-
-  AIF336   Algoritma Kriptografi              3        AIF345   Pengujian Perangkat Lunak           2
-
-  AIF337   Matematika Teknik                  3        AIF346   Perancangan Permainan               3
-
-  AIF338   Bioinformatika                     3                 Komputer                            
-
-  KODE     NAMA                         APR   SKS      KODE     NAMA                          APR   SKS
-
-  AIF347   e-Commerce                         2        AIF443   Matematika Kombinatorial            3
-
-  AIF348   Verifikasi Formal                  3        AIF444   Pemrograman Permainan               3
-                                                                                                    
-                                                                Komputer                            
-
-  AIF350   Algoritma Genetika                 2                                                     
-
-  AIF352   Jaringan Syaraf Tiruan             2        AIF445   Metode Numerik                      3
-
-  AIF354   Teori Bahasa & Kompilasi           2        AIF446   Kompresi Data                       3
-
-  AIF356   Analisis Proses Bisnis             2        AIF447   Metode Optimisasi                   3
-
-  AIF358   Jaringan Komputer Lanjut           3        AIF448   Pemrosesan Data Geografis           3
-
-  AIF360   Pemrograman Berbasis Web           3        AIF449   Teknologi Mesin Pencari             3
-                                                                                                    
-           Lanjut                                                                                   
-
-                                                       AIF450   Pengolahan Citra                    3
-
-  AIF362   Sistem & Aplikasi                  3        AIF451   Audit Sistem Informasi              3
-                                                                                                    
-           Telematika                                                                               
-
-                                                       AIF452   Pemrograman Lojik                   2
-
-  AIF431   Topik Khusus Informatika 3         3        AIF453   Kecerdasan Bisnis                   3
-
-  AIF432   Topik Khusus Informatika 4         2        AIF454   Sistem Multi Agen                   2
-
-  AIF433   Topik Khusus Sistem                3        AIF455   Sistem Pendukung                    
-                                                                                                    
-           Informasi 3                                                                              
-
-                                                                Keputusan                           
-
-  AIF434   Topik Khusus Sistem                2        AIF456   Strategi Sistem Informasi &         
-                                                                                                    
-           Informasi 4                                          Arsitektur Perusahaan               
-                                                                                                    
-                                                                Berskala Besar                      
-
-                                                                                                    
-
-  AIF435   Grafika Komputer Lanjut            3                                                     
-
-  AIF436   Bio-Inspired Computing             3        AIF457   Kewirausahaan Berbasis              
-                                                                                                    
-                                                                Teknologi                           
-
-  AIF437   Kecerdasan Buatan Untuk            3                                                     
-                                                                                                    
-           Permainan Komputer                                                                       
-
-                                                       AIF458   Kontrol & Audit Teknologi           
-                                                                                                    
-                                                                Informasi                           
-
-  AIF438   Penambangan Data                   3                                                     
-
-  AIF439   Kerja Praktek 2                    3        AIF459   Administrasi Basis Data             
-
-  AIF440   Kerja Praktek 3                    4        AIF460   Manajemen Pengetahuan               
-
-  AIF439   Kerja Praktek 2                    3        AIF461   Pencarian & Temu Kembali            
-                                                                                                    
-                                                                Informasi                           
-
-  AIF440   Kerja Praktek 3                    4                                                     
-
-  AIF441   Administrasi Jaringan              3        AIF462   Manajemen Proses Bisnis             
-                                                                                                    
-           Komputer 3                                                                               
-
-                                                       AIF463   Jaringan Nirkabel                   
-
-  AIF442   Administrasi Jaringan              3        AIF464   Sistem Perusahaan                   
-                                                                                                    
-           Komputer 4                                           Berskala Besar                      
-
-                                                                                                    
-  -------------------------------------------------------------------------------------------------------
-
-  KODE     NAMA                   APR   SKS      KODE     NAMA                   APR   SKS
-  -------- ---------------------- ----- ----- -- -------- ---------------------- ----- -----
-  AIF465   Teknologi Middleware                  AIF469   Layanan Berbasis Web         
-  AIF466   Sistem Terdistribusi                  AIF470   Pemrograman Jaringan         
-  AIF468   Teknologi Multimedia                                                        
+| KODE   | NAMA                                                             | APR | SKS |
+|--------|------------------------------------------------------------------|-----|-----|
+| AIF330 | Kerja Praktek 1                                                  |     | 2   |
+| AIF331 | Topik Khusus Informatika 1                                       |     | 2   |
+| AIF332 | Topik Khusus Informatika 2                                       |     | 3   |
+| AIF333 | Topik Khusus Sistem Informasi 1                                  |     | 2   |
+| AIF335 | Pembelajaran Mesin                                               |     | 3   |
+| AIF336 | Algoritma Kriptografi                                            |     | 3   |
+| AIF337 | Matematika Teknik                                                |     | 3   |
+| AIF338 | Bioinformatika                                                   |     | 3   |
+| AIF347 | e-Commerce                                                       |     | 2   |
+| AIF348 | Verifikasi Formal                                                |     | 3   |
+| AIF350 | Algoritma Genetika                                               |     | 2   |
+| AIF352 | Jaringan Syaraf Tiruan                                           |     | 2   |
+| AIF354 | Teori Bahasa & Kompilasi                                         |     | 2   |
+| AIF356 | Analisis Proses Bisnis                                           |     | 2   |
+| AIF358 | Jaringan Komputer Lanjut                                         |     | 3   |
+| AIF360 | Pemrograman Berbasis Web Labhyt                                  |     | 3   |
+| AIF362 | Sistem & Aplikasi Telematika                                     |     | 3   |
+| AIF431 | Topik Khusus Informatika 3                                       |     | 3   |
+| AIF432 | Topik Khusus Informatika 4                                       |     | 2   |
+| AIF433 | Topik Khusus Sistem Informasi 3                                  |     | 3   |
+| AIF434 | Topik Khusus Sistem Informasi 4                                  |     | 2   |
+| AIF435 | Grafika Komputer Lanjut                                          |     | 3   |
+| AIF436 | Bio-Inspired Computing                                           |     | 3   |
+| AIF437 | Kecerdasan Buatan Untuk Permainan Komputer                       |     | 3   |
+| AIF438 | Penambangan Data                                                 |     | 3   |
+| AIF439 | Kerja Praktek 2                                                  |     | 3   |
+| AIF440 | Kerja Praktek 3                                                  |     | 4   |
+| AIF439 | Kerja Praktek 2                                                  |     | 3   |
+| AIF440 | Kerja Praktek 3                                                  |     | 4   |
+| AIF441 | Administrasi Jaringan Komputer 3                                 |     | 3   |
+| AIF442 | Administrasi Jaringan Komputer 4                                 |     | 3   |
+| AIF339 | Pemodelan Formal                                                 |     | 3   |
+| AIF340 | Komputasi Geometri                                               |     | 3   |
+| AIF341 | Adm. Jaringan Komputer 1                                         |     | 3   |
+| AIF342 | Adm. Jaringan Komputer 2                                         |     | 3   |
+| AIF343 | Pemrograman Kompetitif                                           |     | 3   |
+| AIF344 | Pemodelan & Simulasi                                             |     | 3   |
+| AIF345 | Pengujian Perangkat Lunak                                        |     | 2   |
+| AIF346 | Perancangan Permainan Komputer                                   |     | 3   |
+| AIF443 | Matematika Kombinatorial                                         |     | 3   |
+| AIF444 | Pemrograman Permainan Komputer                                   |     | 3   |
+| AIF445 | Metode Numerik                                                   |     | 3   |
+| AIF446 | Kompresi Data                                                    |     | 3   |
+| AIF447 | Metode Optimisasi                                                |     | 3   |
+| AIF448 | Pemrosesan Data Geografis                                        |     | 3   |
+| AIF449 | Teknologi Mesin Pencari                                          |     | 3   |
+| AIF450 | Pengolahan Citra                                                 |     | 3   |
+| AIF451 | Audit Sistem Informasi                                           |     | 3   |
+| AIF452 | Pemrograman Lojik                                                |     | 2   |
+| AIF453 | Kecerdasan Bisnis                                                |     | 3   |
+| AIF454 | Sistem Multi Agen                                                |     | 2   |
+| AIF455 | Sistem Pendukung Keputusan                                       |     |     |
+| AIF456 | Strategi Sistem Informasi & Arsitektur Perusahaan Berskala Besar |     |     |
+| AIF457 | Kewirausahaan Berbasis Teknologi                                 |     |     |
+| AIF458 | Kontrol & Audit Teknologi Informasi                              |     |     |
+| AIF459 | Administrasi Basis Data                                          |     |     |
+| AIF460 | Manajemen Pengetahuan                                            |     |     |
+| AIF461 | Pencarian & Temu Kembali Informasi                               |     |     |
+| AIF462 | Manajemen Proses Bisnis                                          |     |     |
+| AIF463 | Jaringan Nirkabel                                                |     |     |
+| AIF464 | Sistem Perusahaan Berskala Besar                                 |     |     |
+| AIF469 | Layanan Berbasis Web                                             |     |     |
+| AIF470 | Pemrograman Jaringan                                             |     |     |
+| AIF465 | Teknologi Middleware                                             |     |     |
+| AIF466 | Sistem Terdistribusi                                             |     |     |
+| AIF468 | Teknologi Multimedia                                             |     |     |
 
 <span id="_Toc331767775" class="anchor"></span>2.7.3Peta dan Prasyarat
 Matakuliah
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar <span
 style="font-variant:small-caps;">3</span>.
+
+![](media/image4.jpeg)
+
+Gambar 3. Peta dan Prasyarat Matakuliah
 
 2.7.4 Deskripsi Matakuliah
 
@@ -1367,9 +1325,7 @@ style="font-variant:small-caps;">3</span>.
   AIF105    PENGANTAR INFORMATIKA/ *INTRODUCTION TO INFORMATICS*
             Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.
 
-![](media/image4.jpeg)
 
-Gambar 3. Peta dan Prasyarat Matakuliah
 
 Deskripsi matakuliah
 
