@@ -1231,6 +1231,7 @@ Aturan tambahan :
 > minimum 35 di mata kuliah tersebut.
 
 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+
 | KODE   | NAMA                                                             | APR | SKS |
 |--------|------------------------------------------------------------------|-----|-----|
 | AIF330 | Kerja Praktek 1                                                  |     | 2   |
