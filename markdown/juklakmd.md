@@ -1089,102 +1089,92 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 2.7.1 Sususan matakuliah
 
-  --------------------------------------------------------------------------------------------------------------------------
-  **Semester 1**                                 **Semester 2**
-  ---------------- ----------------------------- ---------------- ------- ---- -------- ------------------------ ----- -----
-  KODE             NAMA                          APR
+| Semester 1 |                                |     |     |
+|------------|--------------------------------|-----|-----|
+| KODE       | NAMA                           | APR | SKS |
+| AIF101     | Pemrograman Berorientasi Objek |     | 6   |
+| AIF103     | Matematika Diskret             |     | 3   |
+| AIF105     | Pengantar Informatika          |     | 3   |
+| MKU001     | Pendidikan Pancasila           |     | 2   |
+| MKU008     | Etika                          |     | 2   |
+| MKU010     | Bahasa Inggris                 |     | 2   |
+| TOTAL      |                                |     | 18  |
 
-  AIF101           Pemrograman Berorientasi      
-                                                 
-                   Objek                         
+| Semester 2 |                             |     |     |
+|------------|-----------------------------|-----|-----|
+| KODE       | NAMA                        | APR | SKS |
+| AIF102     | Algoritma dan Struktur Data |     | 4   |
+| AIF104     | Logika Informatika          |     | 3   |
+| AIF106     | Sistem Dijital              |     | 3   |
+| AMS100     | Matematika Informatika      |     | 4   |
+| MKU009     | Bahasa Indonesia            |     | 2   |
+| MKU011     | Estetika                    |     | 2   |
+| TOTAL      |                             |     | 18  |
 
-                                                 
+| Semester 3      |                                        |     |     |
+|-----------------|----------------------------------------|-----|-----|
+| KODE            | NAMA                                   | APR | SKS |
+| AIF201          | Analisis dan Desain Berorientasi Objek |     | 4   |
+| AIF203          | Struktur Diskret                       |     | 4   |
+| AIF205          | Arsitektur dan Organisasi Komputer     |     | 3   |
+| AMS200          | Probabilitas dan Statistika            |     | 3   |
+| MKU003 / MKU004 | Agama Katolik / Fenomenologi Agama     |     | 2   |
+| MKU012          | Logika                                 |     | 2   |
+| TOTAL           |                                        |     | 18  |
 
-  AIF103           Matematika Diskret            
+| Semester 4 |                                   |     |     |
+|------------|-----------------------------------|-----|-----|
+| KODE       | NAMA                              | APR | SKS |
+| AIF202     | Desain dan Analisis Algoritma     |     | 4   |
+| AIF204     | Manajemen Informasi dan Basisdata |     | 4   |
+| AIF206     | Sistem Operasi                    |     | 4   |
+| AIF208     | Rekayasa Perangkat Lunak          |     | 4   |
+| AIF210     | Interaksi Manusia Komputer        |     | 2   |
+| TOTAL      |                                   |     | 18  |
 
-  AIF105           Pengantar Informatika         
+| Semester 5 |                              |     |     |
+|------------|------------------------------|-----|-----|
+| KODE       | NAMA                         | APR | SKS |
+| AIF301     | Pengantar Sistem Cerdas      |     | 3   |
+| AIF303     | Pengantar Sistem Informasi   |     | 3   |
+| AIF305     | Jaringan Komputer            |     | 2   |
+| AIF311     | Pemrograman Fungsional (1)   | R   | 2   |
+| AIF313     | Grafika Komputer (1)         | R   | 2   |
+| AIF315     | Pemrograman Berbasis Web (1) | R   | 2   |
+| AIF317     | Desain Antarmuka Grafis (1)  | R   | 2   |
+| AIFXXX     | MK Pilihan                   |     | 2   |
+| MKU002     | Kewarganegaraan              |     | 2   |
+| TOTAL      |                              |     | 18  |
 
-  MKU001           Pendidikan Pancasila          
+| Semester 6 |                                   |     |     |
+|------------|-----------------------------------|-----|-----|
+| KODE       | NAMA                              | APR | SKS |
+| AIF302     | Penulisan Ilmiah                  |     | 2   |
+| AIF304     | Proyek Sistem Informasi 1 (2)     |     | 3   |
+| AIF306     | Proyek Informatika (2)            |     | 6   |
+| AIF312     | Keamanan Informasi (1)            | R   | 2   |
+| AIF314     | Pemrograman Basisdata (1)         | R   | 2   |
+| AIF316     | Komputasi Paralel (1)             | R   | 2   |
+| AIF318     | Pemrograman Aplikasi Bergerak (1) | R   | 2   |
+| AIFXXX     | MK Pilihan                        |     | 6   |
+| TOTAL      |                                   |     | 18  |
 
-  MKU008           Etika                         
+| Semester 7 |                               |     |     |
+|------------|-------------------------------|-----|-----|
+| KODE       | NAMA                          | APR | SKS |
+| AIF401     | Skripsi 1                     |     | 4   |
+| AIF403     | Komputer dan Masyarakat       |     | 3   |
+| AIF405     | Proyek Sistem Informasi 2 (2) |     | 2   |
+| AIFXXX     | MK Pilihan                    |     | 12  |
+| TOTAL      |                               |     | 18  |
 
-  MKU010           Bahasa Inggris                
-
-  TOTAL            18                            
-
-                                                 
-
-  **Semester 3**                                 **Semester 4**
-
-  KODE             NAMA                          APR
-
-  AIF201           Analisis dan Desain           
-                                                 
-                   Berorientasi Objek            
-
-                                                 
-
-  AIF203           Struktur Diskret              
-
-  AIF205           Arsitektur dan Organisasi     
-                                                 
-                   Komputer                      
-
-                                                 
-
-  AMS200           Probabilitas dan Statistika   
-
-  MKU003 /         Agama Katolik /               
-
-  MKU004           Fenomenologi Agama            
-
-  MKU012           Logika                        
-
-  TOTAL            18                            
-  --------------------------------------------------------------------------------------------------------------------------
-
-  ---------------------------------------------------------------------------------------------------------------------------
-  **Semester 5**                                **Semester 6**
-  ---------------- ---------------------------- ---------------- ------- ---- -------- -------------------------- ----- -----
-  KODE             NAMA                         APR
-
-  AIF301           Pengantar Sistem Cerdas      
-
-  AIF303           Pengantar Sistem             
-                                                
-                   Informasi                    
-
-                                                
-
-  AIF305           Jaringan Komputer            
-
-  AIF311           Pemrograman Fungsional^1^    R
-
-  AIF313           Grafika Komputer^1^          R
-
-  AIF315           Pemrograman Berbasis         R
-                                                
-                   Web^1^                       
-
-                                                
-
-  AIF317           Desain Antarmuka Grafis^1^   R
-
-  AIFXXX           MK Pilihan                   
-
-  MKU002           Kewarganegaraan              
-
-  TOTAL            18                           
-  ---------------------------------------------------------------------------------------------------------------------------
-
-  **Semester 7**                                  **Semester 8**
-  ---------------- ------------------------------ ---------------- ------- ---- -------- --------------- ----- -----
-  KODE             NAMA                           APR
-  AIF401           Skripsi 1                      
-  AIF403           Komputer dan Masyarakat        
-  AIF405           Proyek Sistem Informasi 2^2^   
-  AIFXXX           MK Pilihan                     
-  TOTAL            18                             
+| Semester 8 |               |     |     |
+|------------|---------------|-----|-----|
+| KODE       | NAMA          | APR | SKS |
+| AIF402     | Skripsi 2     |     | 6   |
+| AIFXXX     | MK Pilihan    |     | 10  |
+| APS402     | Etika Profesi |     | 2   |
+| TOTAL      |               |     | 18  |
 
 Keterangan :
 
