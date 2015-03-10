@@ -509,7 +509,7 @@ UNPAR.
 
 #### 2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
 
- | Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
+| Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |--------|-----------------------------|-----|---------------------|
 | AMS100 | Matematika Informatika      | 4   | Teknik Informatika  |
 | AMS200 | Probabilitas dan Statistika | 3   | Teknik Informatika  |
@@ -556,8 +556,7 @@ Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum
 masing-masing prodi.
 
 #### 2.4.1 Susunan Matakuliah Umum
-
- | Kode   | Mata Kuliah                | SKS |
+| Kode   | Mata Kuliah                | SKS |
 |--------|----------------------------|-----|
 | MKU001 | Pendidikan Pancasila       | 2   |
 | MKU002 | Pendidikan Kewarganegaraan | 2   |
