@@ -597,57 +597,84 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 #### 2.5.1 Susunan Mata kuliah
 
-  -----------------------------------------------------------------------------------------------------------------
-  **Semester 1**                          **Semester 2**
-  ---------------- ---------------------- ---------------- ------- ---- -------- ---------------------- ----- -----
-  KODE             NAMA                   APR
+| Semester 1 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS121     | Kalkulus 1           | R   | 4   |
+| AMS123     | Pemecahan Masalah    |     | 3   |
+|            | Matematika           |     |     |
+| AMS151     | Statistika Elementer |     | 4   |
+| APS181     | Fisika Dasar         | R,P | 4   |
+| MKU012     | Logika               | R   | 2   |
+| MKU010     | Bahasa Inggris       |     | 2   |
+| TOTAL      |                      |     | 19  |
 
-  AMS121           Kalkulus 1             R
+| Semester 2 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS122     | Kalkulus 2           |     | 4   |
+| AMS124     | Matematika Diskret   |     | 4   |
+| AMS126     | Aljabar Matriks      |     | 4   |
+| AIF112     | Pemrograman Komputer |     | 3   |
+| MKU011     | Estetika             |     | 2   |
+| MKU003     | Agama Katolik +      |     | 2   |
+| MKU004     | Fenomologi Agama +   |     |     |
+| TOTAL      |                      |     | 19  |
 
-  AMS123           Pemecahan Masalah       
-                                          
-                   Matematika             
+| Semester 3 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS221     | Kalkulus Vektor      | R   | 4   |
+| AMS231     | Teori Suku Bunga     |     | 3   |
+| AMS251     | Teori Peluang        |     | 4   |
+| AMS253     | Komputasi Statistika |     | 2   |
+| AMS271     | Metoda Matematika    |     | 3   |
+| MKU008     | Etika                | R   | 2   |
+| TOTAL      |                      |     | 18  |
 
-                                          
+| Semester 4 |                               |     |     |
+|------------|-------------------------------|-----|-----|
+| KODE       | NAMA                          | APR | SKS |
+| AMS 222    | Aljabar Linear                | R   | 4   |
+| AMS 252    | Statistika Matematika         |     | 4   |
+| AMS 261    | Optimasi                      |     | 4   |
+| AMS 272    | Persamaan Diferensial Biasa   |     | 4   |
+|            |                               |     |     |
+| AMS 273    | Komputasi Matematika          |     | 2   |
+| TOTAL      |                               |     | 18  |
 
-  AMS151           Statistika Elementer    
+| Semester 5 |                            |     |     |
+|------------|----------------------------|-----|-----|
+| KODE       | NAMA                       | APR | SKS |
+| AMS321     | Fungsi Kompleks            |     | 4   |
+| AMS351     | Proses Stokastik           |     | 4   |
+| AMS373     | Metoda Numerik             |     | 3   |
+| MKU002     | Pendidikan Kewarganegaraan |     | 2   |
+| ABCXYZ     | Pilihan                    |     | 6   |
+| TOTAL      |                            |     | 19  |
 
-  APS181           Fisika Dasar           R,P
+| Semester 6 |                  |     |     |
+|------------|------------------|-----|-----|
+| KODE       | NAMA             | APR | SKS |
+| AMS322     | Analisis Real    | R   | 4   |
+| MKU009     | Bahasa Indonesia |     | 2   |
+| ABCXYZ     | Pilihan          |     | 12  |
+| TOTAL      |                  |     | 18  |
 
-  MKU012           Logika                 R
+| Semester 7 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS490     | Seminar              |     | 3   |
+| AMS491     | Pemodelan Matematika |     | 4   |
+| MKU001     | Pancasila            |     | 2   |
+| ABCXYZ     | Pilihan              |     | 9   |
 
-  MKU010           Bahasa Inggris          
-
-  TOTAL            19                     
-  -----------------------------------------------------------------------------------------------------------------
-
-  **Semester 3**                          **Semester 4**
-  ---------------- ---------------------- ---------------- ------- ---- --------- ----------------------- ----- -----
-  KODE             NAMA                   APR
-  AMS221           Kalkulus Vektor        R
-  AMS231           Teori Suku Bunga        
-  AMS251           Teori Peluang          
-  AMS253           Komputasi Statistika    
-  AMS271           Metoda Matematika       
-  MKU008           Etika                  R
-  TOTAL            18                     
-
-  **Semester 5**                                **Semester 6**
-  ---------------- ---------------------------- ---------------- ------- ---- -------- ------------------ ----- -----
-  KODE             NAMA                         APR
-  AMS321           Fungsi Kompleks              
-  AMS351           Proses Stokastik              
-  AMS373           Metoda Numerik               
-  MKU002           Pendidikan Kewarganegaraan    
-  ABCXYZ           Pilihan                       
-  TOTAL            19                           
-  **Semester 7**                                **Semester 8**
-  KODE             NAMA                         APR
-  AMS490           Seminar                      
-  AMS491           Pemodelan Matematika          
-  MKU001           Pancasila                    
-  ABCXYZ           Pilihan                       
-  TOTAL            18                           
+| Semester 8 |         |     |     |
+|------------|---------|-----|-----|
+| KODE       | NAMA    | APR | SKS |
+| AMS499     | Skripsi |     | 6   |
+| ABCXYZ     | Pilihan |     | 9   |
+| TOTAL      |         |     | 15  |
 
 #### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
 
@@ -810,8 +837,9 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | ICE109     | Kimia Dasar              |     | 2   |
 | MKU011     | Estetika                 |     | 2   |
 | TOTAL      | 19                       |     |     |
-|            |                          |     |     |
+
 | Semester 2 |                          |     |     |
+|------------|--------------------------|-----|-----|
 | KODE       | NAMA                     | APR | SKS |
 | APS106     | Fisika Dasar 2           | R,P | 3   |
 | APS108     | Fisika Matematika 2      | R   | 4   |
@@ -820,8 +848,9 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | APS132     | Fisika Komputasi         | P   | 3   |
 | MKU012     | Logika                   |     | 2   |
 | TOTAL      | 19                       |     |     |
-|            |                          |     |     |
+
 | Semester 3 |                          |     |     |
+|------------|--------------------------|-----|-----|
 | KODE       | NAMA                     | APR | SKS |
 | APS207     | Fisika Matematika 3      | R   | 4   |
 | APS213     | Gelombang                | R   | 3   |
@@ -831,8 +860,9 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | MKU003/    | Agama Katolik/           |     | 2   |
 | MKU004     | Fenomenologi Agama       |     |     |
 | TOTAL      | 18                       |     |     |
-|            |                          |     |     |
+
 | Semester 4 |                          |     |     |
+|------------|--------------------------|-----|-----|
 | KODE       | NAMA                     | APR | SKS |
 | APS204     | Projek Bersama           |     | 2   |
 | APS208     | Fisika Matematika 4      | R   | 4   |
@@ -842,6 +872,7 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | MKU010     | Bahasa Inggris           |     | 2   |
 |            |                          |     |     |
 | TOTAL      | 18                       |     |     |
+
 | Semester 5 |                           |     |     |
 |------------|---------------------------|-----|-----|
 | KODE       | NAMA                      | APR | SKS |
@@ -852,8 +883,9 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | MKU008     | Etika                     |     | 2   |
 |            | Mata Kuliah Pilihan       |     | 3   |
 | TOTAL      |                           |     | 18  |
-|            |                           |     |     |
+
 | Semester 6 |                           |     |     |
+|------------|--------------------------|-----|-----|
 | KODE       | NAMA                      | APR | SKS |
 | APS304     | Teknik Presentasi         |     | 2   |
 | APS328     | Mekanika Kuantum          |     | 3   |
@@ -863,22 +895,25 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 | MKU009     | Bahasa Indonesia          |     | 2   |
 |            | Mata Kuliah Pilihan       |     | 3   |
 | TOTAL      |                           |     | 19  |
-|            |                           |     |     |
+
 | Semester 7 |                           |     |     |
+|------------|--------------------------|-----|-----|
 | KODE       | NAMA                      | APR | SKS |
 | APS497     | Tugas Akhir 1             |     | 4   |
 | MKU001     | Pancasila                 |     | 2   |
 | MKU002     | Kewarganegaraan           |     | 2   |
 |            | Mata Kuliah Pilihan       |     | 9   |
 | TOTAL      |                           |     | 17  |
-|            |                           |     |     |
+
 | Semester 8 |                           |     |     |
+|------------|--------------------------|-----|-----|
 | KODE       | NAMA                      | APR | SKS |
 | APS402     | Etika Profesi             |     | 2   |
 | APS498     | Tugas Akhir 2             |     | 4   |
 | SAB315     | Kewirausahaan             |     | 3   |
 |            | Mata Kuliah Pilihan       |     | 9   |
 | TOTAL      |                           |     | 18  |
+
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 | No | Kelompok Mata kuliah                                                 |
@@ -1286,7 +1321,7 @@ Aturan tambahan :
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar
 
-![](media/Peta dan Prasyarat Matakuliah.jpg)
+![](images/Peta dan Prasyarat Matakuliah.jpg)
 
 Gambar 3. Peta dan Prasyarat Matakuliah
 
