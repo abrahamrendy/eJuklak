@@ -298,67 +298,67 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang
 pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014,
 alamat email dan website.
 
-| Guru Besar |                                                                         |
+| Nomor |  Guru Besar                                                               |
 |------------|-------------------------------------------------------------------------|
 |    1       | Prof B. Suprapto Brotosiswojo  Dr. (Purdue University USA)              |
 |            | Fisika  Komputasi  Komputasi Kuantum  Pemodelan Matematika Gejala Alam. |
 |            | Email: bensupra@unpar.ac.id                                             |
 
-|Lektor Kepala|                                                                      |
-|------------|----------------|
-|   2			|Agus Sukmana  Drs. (ITB)  MSc (Twente Univ. – Belanda)  studi S-3 (UPI)|
-|			|Teori Peluang  Pengendalian Mutu  Statistika Elementer.|
-|			|Email: asukmana@unpar.ac.id. |
-|	3		|Aloysius Rusli  Dr. (Leeds University  UK): Fisika Polimer  Pengenalan Program Studi Fisika Etika Profesi  Reologi.|
-||Email: arusli@unpar.ac.id|
-|	4		|Benny Yong  SSi. (UNPAR)  MSi. (ITB)|
-||Pemecahan Masalah Matematika  Teori Bilangan  Pemodelan Matematika. |
-||Email: benny_y@unpar.ac.id. |
-|	5		|Ferry Jaya Permana  SSi (ITB)  MSi (ITB)  PhD (TU Delft -  Belanda)|
-||Teori Risiko  Teori Suku Bunga  Kalkulus Keuangan.|
-||Email: ferryjp@unpar.ac.id. |
-|		6	|Iwan Sugiarto  SSi (UNPAR)  MSi (ITB)|
-||Metoda Matematika  Fungsi Kompleks  Optimasi. |
-||Email: iwans@unpar.ac.id. |
-|	7		|Julius Dharma Lesmono  SSi (ITB)  SE (UNPAR)  MT (ITB)  MSc (Twente University - Belanda)  Dr. (University of Queenslands - Australia)|
-||Proses Stokastik  Statistika Matematika  Kontrol Optimum.|
-||Email: jdharma@unpar.ac.id. |
-|		8	|Nico Saputro  ST (ITB)  MT (ITB)  Studi S-3 (Univ. of Illinois – USA).|
-||Email: nico@unpar.ac.id|
-|9|Paulus Cahyono Tjiang  Drs. (ITB)  PhD (Australian National University): Listrik Magnet  Elektrodinamika  Mekanika Kuantum Relativistik  Teori Medan Kuantum. |
-||Email: pctjiang@unpar.ac.id. |
-|10|Sylvia Hastuti Sutanto  SSi (ITB)  PhD (Australian National University): Fisika Matematika 3 & 4  Mekanika Hamiltonian  Dinamika Fluida. |
-||Email: sylvia@unpar.ac.id|
-|11|Marcus Wono Setya Budhi  PhD (Univ. of Illinois – USA):|
-||Persamaan Differensial Parsial  Analisis Real  Struktur Aljabar.|
-||Email: wono@math.itb.ac.id|
-|12|Veronica Sri Moertini  ST (ITB)  MT (ITB)  Dr. (ITB):|
-||Basis Data  Penambangan Data  Projek Sistem Informasi.|
-||Email: moertini@unpar.ac.id|
-| Lektor |                                                                                                                                |
-|--------|--------------------------------------------------------------------------------------------------------------------------------|
-| 13     | Cecilia Esti Nugraheni,ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik,Ludwig-Maximilians Universitaet – Germany): |
-|        | Matematika Diskret Jaringan Syaraf Tiruan.                                                                                     |
-|        | Email: cheni@unpar.ac.id                                                                                                       |
-| 14     | Erwinna Chendra,SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB..                                                            |
-|        | Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna                                                            |
-| 15     | Liem Chin,SSi.(UNPAR), MSi.(ITB):                                                                                              |
-|        | Matematika Diskret Aljabar Linear Komputasi Statistika.                                                                        |
-|        | Email: chin@unpar.ac.id.                                                                                                       |
-| 16     | Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI):                                            |
-|        | Struktur Diskret Grafika Komputer Komputer dan Masyarakat Projek Perangkat Lunak.                                              |
-|        | Email: oerip_ss@yahoo.com                                                                                                      |
-| 17     | Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK):                                |
-|        | Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.                                                                       |
-|        | Email: philips@UNPAR.ac.id.                                                                                                    |
-| 18     | Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:                                                                      |
-|        | Sistem Informarsi Sistem Pendukung Keputusan.                                                                                  |
-|        | Email: rosad5@unpar.ac.id                                                                                                      |
-| 19     | Farah Kristiani SSi (UNPAR) MSi (ITB)                                                                                          |
-|        | Studi S-3 Matematika di Universiti Pendidikan Sultan Idris Malaysia.                                                           |
-|        | Email: farah@unpar.ac.id.     
+| Nomor |  Lektor Kepala                                                                                                                                                             |
+|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2             | Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):                                                                                      |
+|               | Teori Peluang, Pengendalian Mutu, Statistika Elementer.                                                                                                       |
+|               | Email: asukmana@unpar.ac.id.                                                                                                                                  |
+| 3             | Aloysius Rusli, Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.                                           |
+|               | Email: arusli@unpar.ac.id                                                                                                                                     |
+| 4             | Benny Yong, SSi. (UNPAR), MSi. (ITB):                                                                                                                         |
+|               | Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika.                                                                                           |
+|               | Email: benny_y@unpar.ac.id.                                                                                                                                   |
+| 5             | Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda)                                                                                           |
+|               | Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.                                                                                                            |
+|               | Email: ferryjp@unpar.ac.id.                                                                                                                                   |
+| 6             | Iwan Sugiarto, SSi (UNPAR), MSi (ITB):                                                                                                                        |
+|               | Metoda Matematika, Fungsi Kompleks, Optimasi.                                                                                                                 |
+|               | Email: iwans@unpar.ac.id.                                                                                                                                     |
+| 7             | Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):                       |
+|               | Proses Stokastik, Statistika Matematika, Kontrol Optimum.                                                                                                     |
+|               | Email: jdharma@unpar.ac.id.                                                                                                                                   |
+| 8             | Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois – USA).                                                                                        |
+|               | Email: nico@unpar.ac.id                                                                                                                                       |
+| 9             | Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum. |
+|               | Email: pctjiang@unpar.ac.id.                                                                                                                                  |
+| 10            | Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida.                      |
+|               | Email: sylvia@unpar.ac.id                                                                                                                                     |
+| 11            | Marcus Wono Setya Budhi, PhD (Univ. of Illinois – USA):                                                                                                       |
+|               | Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.                                                                                              |
+|               | Email: wono@math.itb.ac.id                                                                                                                                    |
+| 12            | Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):                                                                                                         |
+|               | Basis Data, Penambangan Data, Projek Sistem Informasi.                                                                                                        |
+|               | Email: moertini@unpar.ac.id                                                                                                                                   |
 
-| Asisten Ahli |                                                                                   |
+| Nomor       | Lektor                                                                                                                                                  |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 13           | Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):                         |
+|              | Matematika Diskret, Jaringan Syaraf Tiruan.                                                                                                              |
+|              | Email: cheni@unpar.ac.id                                                                                                                                 |
+| 14           | Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.                                                                                      |
+|              | Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna                                                                                      |
+| 15           | Liem Chin, SSi.(UNPAR), MSi.(ITB):                                                                                                                       |
+|              | Matematika Diskret, Aljabar Linear, Komputasi Statistika.                                                                                                |
+|              | Email: chin@unpar.ac.id.                                                                                                                                 |
+| 16           | Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI):                                                                      |
+|              | Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak.                                                                     |
+|              | Email: oerip_ss@yahoo.com                                                                                                                                |
+| 17           | Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi. |
+|              | Email: philips@UNPAR.ac.id.                                                                                                                              |
+| 18           | Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:                                                                                                |
+|              | Sistem Informarsi, Sistem Pendukung Keputusan.                                                                                                           |
+|              | Email: rosad5@unpar.ac.id                                                                                                                                |
+| 19           | Farah Kristiani, SSi (UNPAR), MSi (ITB),                                                                                                                 |
+|              | Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.                                                                                    |
+|              | Email: farah@unpar.ac.id.                                                                                                                                |
+
+|  Nomor       | Asisten Ahli                                                                      |
 |--------------|-----------------------------------------------------------------------------------|
 | 19           | Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.                               |
 |              | Email: elisatih@unpar.ac.id                                                       |
@@ -390,7 +390,7 @@ alamat email dan website.
 |              | Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.                         |
 |              | Email: maria.anestasia@unpar.ac.id                                                |                 
 
-| Golongan III |                                                                                                                       |
+| Nomor |Golongan III                                                                                                                       |
 |--------------|-----------------------------------------------------------------------------------------------------------------------|
 | 29           | Chandra Wijaya, SKom (UNPAR), MT (ITB):                                                                               |
 |              | Jaringan Komputer, Sistem Digital                                                                                     |
