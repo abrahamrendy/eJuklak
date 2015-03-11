@@ -7,6 +7,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.text.Html;
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -41,19 +42,8 @@ public class MainActivity extends Activity implements OnClickListener{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
         
-        /*ScrollView sv = new ScrollView(this);
-        //sv.
-        LinearLayout listButton = new LinearLayout(this);
-        listButton.addView(createButton("Kata Pengantar"));//kata pengantar
-        listButton.addView(createButton("Bab 1"));//bab 1
-        listButton.addView(createButton("Bab 2"));//bab 2
-        listButton.addView(createButton("Bab 3"));//bab 3
-        listButton.addView(createButton("Bab 4"));//bab 4
-        listButton.addView(createButton("Lampiran"));//lampiran
-        sv.addView(listButton);*/
-        //listButton.set
-        //listButton.setScr
         view = new WebView(this);
         view.loadUrl("file:///android_asset/katapengantar.html");
         urls = new String[6];
@@ -69,12 +59,12 @@ public class MainActivity extends Activity implements OnClickListener{
         //requestWindowFeature(Window.FEATURE_NO_TITLE);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
-		/*getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+		getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE
 	            | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
 	            | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
 	            | View.SYSTEM_UI_FLAG_HIDE_NAVIGATION // hide nav bar
 	            | View.SYSTEM_UI_FLAG_FULLSCREEN // hide status bar
-	            | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);*/
+	            | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY);
 		
         setContentView(R.layout.activity_main);
         GridLayout parentLayout = ((GridLayout)findViewById(R.id.parentLayout));
