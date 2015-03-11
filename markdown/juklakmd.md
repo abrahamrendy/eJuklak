@@ -597,57 +597,87 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 #### 2.5.1 Susunan Mata kuliah
 
-  -----------------------------------------------------------------------------------------------------------------
-  **Semester 1**                          **Semester 2**
-  ---------------- ---------------------- ---------------- ------- ---- -------- ---------------------- ----- -----
-  KODE             NAMA                   APR
+| Semester 1 |                              |     |     |
+|------------|------------------------------|-----|-----|
+| KODE       | NAMA                         | APR | SKS |
+| AMS121     | Kalkulus 1                   | R   | 4   |
+| AMS123     | Pemecahan Masalah Matematika |     | 3   |
+| AMS151     | Statistika Elementer         |     | 4   |
+| APS181     | Fisika Dasar                 | R,P | 4   |
+| MKU012     | Logika                       | R   | 2   |
+| MKU010     | Bahasa Inggris               |     | 2   |
+| TOTAL      |                              |     | 19  |
 
-  AMS121           Kalkulus 1             R
+| Semester 2 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS122     | Kalkulus 2           |     | 4   |
+| AMS124     | Matematika Diskret   |     | 4   |
+| AMS126     | Aljabar Matriks      |     | 4   |
+| AIF112     | Pemrograman Komputer |     | 3   |
+| MKU011     | Estetika             |     | 2   |
+| MKU003     | Agama Katolik +      |     | 2   |
+| MKU004     | Fenomologi Agama +   |     |     |
+| TOTAL      |                      |     | 19  |
 
-  AMS123           Pemecahan Masalah       
-                                          
-                   Matematika             
+| Semester 3 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS221     | Kalkulus Vektor      | R   | 4   |
+| AMS231     | Teori Suku Bunga     |     | 3   |
+| AMS251     | Teori Peluang        |     | 4   |
+| AMS253     | Komputasi Statistika |     | 2   |
+| AMS271     | Metoda Matematika    |     | 3   |
+| MKU008     | Etika                | R   | 2   |
+| TOTAL      |                      |     | 18  |
 
-                                          
+| Semester 4 |                             |     |     |
+|------------|-----------------------------|-----|-----|
+| KODE       | NAMA                        | APR | SKS |
+| AMS 222    | Aljabar Linear              | R   | 4   |
+| AMS 252    | Statistika Matematika       |     | 4   |
+| AMS 261    | Optimasi                    |     | 4   |
+| AMS 272    | Persamaan Diferensial Biasa |     | 4   |
+| AMS 273    | Komputasi Matematika        |     | 2   |
+| TOTAL      |                             |     | 18  |
 
-  AMS151           Statistika Elementer    
+| Semester 5 |                            |     |     |
+|------------|----------------------------|-----|-----|
+| KODE       | NAMA                       | APR | SKS |
+| AMS321     | Fungsi Kompleks            |     | 4   |
+| AMS351     | Proses Stokastik           |     | 4   |
+| AMS373     | Metoda Numerik             |     | 3   |
+| MKU002     | Pendidikan Kewarganegaraan |     | 2   |
+| ABCXYZ     | Pilihan                    |     | 6   |
+| TOTAL      |                            |     | 19  |
 
-  APS181           Fisika Dasar           R,P
+| Semester 6 |                  |     |     |
+|------------|------------------|-----|-----|
+| KODE       | NAMA             | APR | SKS |
+| AMS322     | Analisis Real    | R   | 4   |
+| MKU009     | Bahasa Indonesia |     | 2   |
+| ABCXYZ     | Pilihan          |     | 12  |
+|            |                  |     |     |
+|            |                  |     |     |
+| TOTAL      |                  |     | 18  |
 
-  MKU012           Logika                 R
+| Semester 7 |                      |     |     |
+|------------|----------------------|-----|-----|
+| KODE       | NAMA                 | APR | SKS |
+| AMS490     | Seminar              |     | 3   |
+| AMS491     | Pemodelan Matematika |     | 4   |
+| MKU001     | Pancasila            |     | 2   |
+| ABCXYZ     | Pilihan              |     | 9   |
+| TOTAL      |                      |     | 18  |
 
-  MKU010           Bahasa Inggris          
-
-  TOTAL            19                     
-  -----------------------------------------------------------------------------------------------------------------
-
-  **Semester 3**                          **Semester 4**
-  ---------------- ---------------------- ---------------- ------- ---- --------- ----------------------- ----- -----
-  KODE             NAMA                   APR
-  AMS221           Kalkulus Vektor        R
-  AMS231           Teori Suku Bunga        
-  AMS251           Teori Peluang          
-  AMS253           Komputasi Statistika    
-  AMS271           Metoda Matematika       
-  MKU008           Etika                  R
-  TOTAL            18                     
-
-  **Semester 5**                                **Semester 6**
-  ---------------- ---------------------------- ---------------- ------- ---- -------- ------------------ ----- -----
-  KODE             NAMA                         APR
-  AMS321           Fungsi Kompleks              
-  AMS351           Proses Stokastik              
-  AMS373           Metoda Numerik               
-  MKU002           Pendidikan Kewarganegaraan    
-  ABCXYZ           Pilihan                       
-  TOTAL            19                           
-  **Semester 7**                                **Semester 8**
-  KODE             NAMA                         APR
-  AMS490           Seminar                      
-  AMS491           Pemodelan Matematika          
-  MKU001           Pancasila                    
-  ABCXYZ           Pilihan                       
-  TOTAL            18                           
+| Semester 8 |         |     |     |
+|------------|---------|-----|-----|
+| KODE       | NAMA    | APR | SKS |
+| AMS499     | Skripsi |     | 6   |
+| ABCXYZ     | Pilihan |     | 9   |
+|            |         |     |     |
+|            |         |     |     |
+| TOTAL      |         |     | 15  |                         
 
 #### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
 
