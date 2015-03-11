@@ -1319,7 +1319,7 @@ Aturan tambahan :
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar
 
-![](media/Peta dan Prasyarat Matakuliah.jpeg)
+![](images/Peta dan Prasyarat Matakuliah.jpg)
 
 Gambar 3. Peta dan Prasyarat Matakuliah
 
