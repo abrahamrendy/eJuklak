@@ -1,3 +1,5 @@
+package com.example.ejuklak2;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -28,7 +30,7 @@ public class IndexParsingTool {
         LinkedList<Head>[] heads = new LinkedList[5];//h2, h3, h4, h5, h6 sequentially
         int i, j;//counter
         for (i = 0; i < 5; i++) {
-            heads[i] = new LinkedList<>();
+            heads[i] = new LinkedList();
         }
         String[] splitTag;//container for the splitted tag, index 1 is the id
         String input = new String(), tag = new String(), text = new String(), id = new String();
