@@ -423,7 +423,7 @@ alamat email dan website.
 |              | Email: vania.natali@unpar.ac.id                                                                                       |                                                                                |
 
 
-BAB 2 : PENYELENGGARAAN MATA KULIAH
+Bab 2 : Penyelenggaraan Mata Kuliah
 ----------------------------------------------
 
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat
@@ -507,7 +507,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di
 FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan
 UNPAR.
 
-#### 2.3.1 KULIAH LAYANAN PROGRAM STUDI MATEMATIKA
+#### 2.3.1 Kuliah Layanan Program Studi Matematika
 
 | Kode   | Mata Kuliah                 | SKS | Prodi yang dilayani |
 |--------|-----------------------------|-----|---------------------|
@@ -570,27 +570,27 @@ masing-masing prodi.
 
 #### 2.4.2 Uraian Singkat Matakuliah Umum
 
-| NAMA MK   | NAMA MATAKULIAH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| NAMA MK/PRASYARAT   | NAMA MATAKULIAH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| PRASYARAT | DESKIPSI MATAKULIAH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | MKU001    | PENDIDIKANPANCASILA / PANCASILA EDUCATION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|           | Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila. |
+|      DESKRIPSI MATAKULIAH     | Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila. |
 | MKU002    | PENDIDIKAN KEWARGANEGARAAN/ CIVICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|           | Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|        DESKRIPSI MATAKULIAH   | Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | MKU003    | AGAMA KATOLIK / CATHOLIC RELIGION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|           | Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|   DESKRIPSI MATAKULIAH        | Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | MKU004    | FENOMENOLOGI AGAMA / PHENOMENOLOGY OF RELIGION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|           | Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.                                                                              |
+|    DESKRIPSI MATAKULIAH       | Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.                                                                              |
 | MKU008    | ETIKA/ ETHICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|           | Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     DESKRIPSI MATAKULIAH      | Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | MKU009    | BAHASA INDONESIA / INDONESIAN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|           | Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                                                                                                                                                                                |
+|     DESKRIPSI MATAKULIAH      | Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.                                                                                                                                                                                |
 | MKU010    | BAHASA INGGRIS / ENGLISH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|           | Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (vocabularies). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|      DESKRIPSI MATAKULIAH     | Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (vocabularies). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | MKU011    | ESTETIKA/ ESTHETICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|           | Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat                                                                                                                                                                                                                                                                                                                                                                  |
+|   DESKRIPSI MATAKULIAH        | Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat                                                                                                                                                                                                                                                                                                                                                                  |
 | MKU012    | LOGIKA/ LOGICS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|           | Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik                                                                                                                                                                                                                                                                                                                      |
+|   DESKRIPSI MATAKULIAH        | Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik                                                                                                                                                                                                                                                                                                                      |
 Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 ### 2.5 Kurikulum Program Studi Matematika
@@ -599,18 +599,21 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 | Semester 1 |                              |     |     |
 |------------|------------------------------|-----|-----|
+
 | KODE       | NAMA                         | APR | SKS |
+|------------|------------------------------|-----|-----|
 | AMS121     | Kalkulus 1                   | R   | 4   |
 | AMS123     | Pemecahan Masalah Matematika |     | 3   |
 | AMS151     | Statistika Elementer         |     | 4   |
 | APS181     | Fisika Dasar                 | R,P | 4   |
 | MKU012     | Logika                       | R   | 2   |
 | MKU010     | Bahasa Inggris               |     | 2   |
-| TOTAL      |                              |     | 19  |
 
-| Semester 2 |                      |     |     |
-|------------|----------------------|-----|-----|
+| Semester 2 |
+|------------|
+
 | KODE       | NAMA                 | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS122     | Kalkulus 2           |     | 4   |
 | AMS124     | Matematika Diskret   |     | 4   |
 | AMS126     | Aljabar Matriks      |     | 4   |
@@ -618,66 +621,78 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | MKU011     | Estetika             |     | 2   |
 | MKU003     | Agama Katolik +      |     | 2   |
 | MKU004     | Fenomologi Agama +   |     |     |
-| TOTAL      |                      |     | 19  |
+
 
 | Semester 3 |                      |     |     |
 |------------|----------------------|-----|-----|
+
 | KODE       | NAMA                 | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS221     | Kalkulus Vektor      | R   | 4   |
 | AMS231     | Teori Suku Bunga     |     | 3   |
 | AMS251     | Teori Peluang        |     | 4   |
 | AMS253     | Komputasi Statistika |     | 2   |
 | AMS271     | Metoda Matematika    |     | 3   |
 | MKU008     | Etika                | R   | 2   |
-| TOTAL      |                      |     | 18  |
+
 
 | Semester 4 |                             |     |     |
 |------------|-----------------------------|-----|-----|
+
 | KODE       | NAMA                        | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS 222    | Aljabar Linear              | R   | 4   |
 | AMS 252    | Statistika Matematika       |     | 4   |
 | AMS 261    | Optimasi                    |     | 4   |
 | AMS 272    | Persamaan Diferensial Biasa |     | 4   |
 | AMS 273    | Komputasi Matematika        |     | 2   |
-| TOTAL      |                             |     | 18  |
+
 
 | Semester 5 |                            |     |     |
 |------------|----------------------------|-----|-----|
+
 | KODE       | NAMA                       | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS321     | Fungsi Kompleks            |     | 4   |
 | AMS351     | Proses Stokastik           |     | 4   |
 | AMS373     | Metoda Numerik             |     | 3   |
 | MKU002     | Pendidikan Kewarganegaraan |     | 2   |
 | ABCXYZ     | Pilihan                    |     | 6   |
-| TOTAL      |                            |     | 19  |
+
 
 | Semester 6 |                  |     |     |
 |------------|------------------|-----|-----|
+
 | KODE       | NAMA             | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS322     | Analisis Real    | R   | 4   |
 | MKU009     | Bahasa Indonesia |     | 2   |
 | ABCXYZ     | Pilihan          |     | 12  |
 |            |                  |     |     |
 |            |                  |     |     |
-| TOTAL      |                  |     | 18  |
+
 
 | Semester 7 |                      |     |     |
 |------------|----------------------|-----|-----|
+
 | KODE       | NAMA                 | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS490     | Seminar              |     | 3   |
 | AMS491     | Pemodelan Matematika |     | 4   |
 | MKU001     | Pancasila            |     | 2   |
 | ABCXYZ     | Pilihan              |     | 9   |
-| TOTAL      |                      |     | 18  |
+
 
 | Semester 8 |         |     |     |
 |------------|---------|-----|-----|
+
 | KODE       | NAMA    | APR | SKS |
+|------------|----------------------|-----|-----|
 | AMS499     | Skripsi |     | 6   |
 | ABCXYZ     | Pilihan |     | 9   |
 |            |         |     |     |
 |            |         |     |     |
-| TOTAL      |         |     | 15  |                         
+                       
 
 #### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
 
@@ -1381,6 +1396,7 @@ Gambar 3. Peta dan Prasyarat Matakuliah
 |              | Mempelajari konsep-konsep dasar dalam teori peluang dan statistika                                                                                                                                                                                                                                                                                                                                                                   |
 
 BAB 3 KEGIATAN AKADEMIK
+---------------------------------------------------------------------------------------------------------
 
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua
 semester **reguler** yaitu **Semester Ganjil** dan **Semester Genap**.
@@ -1393,19 +1409,15 @@ bersifat sukarela.
 Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri
 atas:
 
-1.  Penyusunan Rencana Studi
+@  Penyusunan Rencana Studi
+@  Kegiatan Perkuliahan
+@  Kegiatan Responsi dan / atau Praktikum
+@  Ujian
+@  Skripsi
 
-2.  Kegiatan Perkuliahan
+### 3.1 Penyusunan Rencana Studi
 
-3.  Kegiatan Responsi dan / atau Praktikum
-
-4.  Ujian
-
-5.  Skripsi
-
-3.1 Penyusunan Rencana Studi
-
-3.1.1 Perwalian dan Penentuan Mata Kuliah
+#### 3.1.1 Perwalian dan Penentuan Mata Kuliah
 
 Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan
 praktikum, pada setiap semester seorang mahasiswa perlu menyusun
