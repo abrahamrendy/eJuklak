@@ -1,14 +1,18 @@
 package com.example.ejuklak2;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Scanner;
 
 import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.SearchView;
@@ -16,11 +20,14 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.webkit.WebSettings;
+import android.webkit.WebView;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
+import android.widget.TextView;
 import android.widget.Toast;
  
 public class MainActivity extends ActionBarActivity {
@@ -29,12 +36,22 @@ public class MainActivity extends ActionBarActivity {
     ExpandableListView expListView;
     List<String> listDataHeader;
     HashMap<String, List<String>> listDataChild;
- 
+    TextView title;
+    WebView webView;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
  
+        //set title
+       // title = (TextView)findViewById(R.id.title);
+        
+        //set web view
+        webView = (WebView) findViewById(R.id.web_view);
+        webView.setVerticalScrollBarEnabled(true);
+        webView.loadUrl("file:///android_asset/juklakhtml.html");
+        
         //set action bar's icon
         ActionBar actionBar = getSupportActionBar();
         actionBar.setLogo(R.drawable.ic_launcher);
