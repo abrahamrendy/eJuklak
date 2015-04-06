@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 11, 2015, 7:38:37 AM
+    Author     : Abraham
+*/
+
+.odd {
+    background-color: lightgray
+}
+
+.even {
+    background-color: snow
+}
+
+.header {
+    color: whitesmoke;
+}
+
+th {
+    background-color: rgb(79,98,40);
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+h2 {
+    color: rgb(23,54,93);
+}
+
+h3, h4 {
+    color: rgb(0,112,192);
+}
+
+blockquote {
+    font-style: italic;
+    text-align: center;
+}
