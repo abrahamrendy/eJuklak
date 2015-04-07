@@ -1380,24 +1380,11 @@ matakuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman
 berikut:
 
-a.  Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait
-    dengan semester yang akan dijalani sesuai dengan kurikulum program
-    studinya.
-
-b.  Memprioritaskan matakuliah semester lebih awal yang **belum lulus**.
-    Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi
-    penghalang bagi matakuliah yang memprasyaratkannya.
-
-c.  Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat
-    *tempuh* atau pun prasyarat *lulus*) bagi matakuliah lain.
-
-d.  Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada
-    semester tersebut (diumumkan sejak saat masa perencanaan studi),
-    sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa
-    terjadi bentrokan jadwal kuliah atau ujian.
-
-e.  Ketentuan beban studi diatur dalam Keputusan Rektor Universitas
-    Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+   -  Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
+   -  Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
+   -  Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat *tempuh* atau pun prasyarat *lulus*) bagi matakuliah lain.
+   -  Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+   -  Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
 
 |  IPS         |  Hak Tempuh pada Semester Berikutnya|
 |--------------|-------------------------------------|
@@ -1489,8 +1476,8 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     -   membaca bahan yang diperkirakan akan dibahas dosen,
     -   menanyakan **segala** hal yang belum jelas kepada dosen,
     -   meminta saran dosen tentang cara belajar dan berlatih yang baik.
-
-**Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
+    
+ **Kehadiran** pada perkuliahan disyaratkan **minimal 80%**, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera mungkin kepada dosen, beserta alasan cukup kuat dan sah.
 
 2.  **Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa
     responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari
@@ -1576,12 +1563,12 @@ B.  **Perlengkapan**
     pengawas ujian.
 7.  Peserta ujian dilarang merokok di ruang ujian.
 
-C.  **Pakaian **
+C.  **Pakaian**
 
 1.  Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
 2.  Peserta ujian **wajib** memakai sepatu.
 
-D.  **Tempat duduk **
+D.  **Tempat duduk**
 
 1.  Peserta ujian harus menempati **ruang ujian** dan **tempat duduk
     sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan
@@ -1589,7 +1576,7 @@ D.  **Tempat duduk **
 2.  Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas
     ujian.
 
-E.  **Pelaksanaan **
+E.  **Pelaksanaan**
 
 1.  Peserta ujian dilarang membuka dan membaca soal ujian sebelum
     diperbolehkan oleh pengawas ujian.
@@ -1621,14 +1608,14 @@ E.  **Pelaksanaan **
     ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan
     curang:
 
-   a.  **Melihat** berkas ujian milik peserta ujian lain;
-   b.  **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri
+   -  **Melihat** berkas ujian milik peserta ujian lain;
+   -  **Memperlihatkan** atau **memberikan** berkas ujian milik sendiri
     kepada peserta ujian lain;
-   c.  **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan
+   -  **Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan
     cara dan media apapun;
-   d.  **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun
+   -  **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun
     (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-   e.  **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku,
+   -  **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku,
     kalkulator, dan sebagainya selama ujian berlangsung.
 
 10.  Peserta ujian yang **melakukan kecurangan** pada saat ujian akan
@@ -1683,18 +1670,16 @@ saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 
     -   Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari
         rumah sakit.
-
     -   Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
-
     -   Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta
         pimpinan jurusan.
 
-Maka mahasiswa tersebut dapat mengajukan permohonan *ujian susulan*
+ Maka mahasiswa tersebut dapat mengajukan permohonan *ujian susulan*
 bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan
 jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap
 semesternya.
 
-Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau
+ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau
 penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk
 pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
 
@@ -1744,7 +1729,7 @@ pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
     -   Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
     -   Mendapat ijin dari WR-1.
 
-Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester
+ Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester
 yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan
 sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan**.
 
@@ -1778,14 +1763,14 @@ studi** adalah sebagai berikut:
 4.  Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di
     atas, mahasiswa yang bersangkutan
 
-    a.  Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus
+    -  Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus
     persen)** Sumbangan Pengembangan sesuai dengan tarif yang berlaku di
     lingkungan UNPAR untuk semester selama gencat studi.
-    b.  Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS**
+    -  Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS**
     pada semester dimana mahasiswa yang bersangkutan mulai aktif
     kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh
     **maksimal 18 SKS** berdasarkan pertimbangan yang sah.
-    c.  Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi
+    -  Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi
     butir a. di atas.
 
 ###3.5 Pengunduran Diri Sebagai Mahasiswa
