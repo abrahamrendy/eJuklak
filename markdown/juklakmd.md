@@ -947,12 +947,10 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 | APS411 | Mekanika Hamiltonian     | 3   |
 | APS317 | Fisika Matematika Lanjut | 3   |
 | APS318 | Pemodelan Matematika     | 3   |
-| APS418 | KapSel. Fisika           | 3   |
-|        | Matematika               |     |
+| APS418 | KapSel. Fisika Matematika| 3   |
 | APS424 | Teori Relativitas        | 3   |
 | APS426 | Komputasi Kuantum        | 3   |
-| APS427 | Mekanika Kuantum         | 3   |
-|        | Relativistik             |     |
+| APS427 | Mekanika Kuantum Relativistik        | 3   |
 | APS428 | Teori Medan Kuantum      | 3   |
 | APS429 | KapSel. Fisika Teori     | 3   |
 
@@ -968,14 +966,13 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 **Kelompok Biofisika**
 
-| KODE   | NAMA                       | SKS |
-|--------|----------------------------|-----|
-| APS350 | Fisika Instrumentasi Medis | 3   |
-| APS351 | Biofisika                  | 3   |
-| APS352 | Fisika Kedokteran          | 3   |
-| APS458 | Kapita Selekta Biofisika   | 3   |
-| APS459 | Kapita Selekta Fisika      | 3   |
-|        | Kedokteran                 |     |
+| KODE   | NAMA                                  | SKS |
+|--------|---------------------------------------|-----|
+| APS350 | Fisika Instrumentasi Medis            | 3   |
+| APS351 | Biofisika                             | 3   |
+| APS352 | Fisika Kedokteran                     | 3   |
+| APS458 | Kapita Selekta Biofisika              | 3   |
+| APS459 | Kapita Selekta Fisika Kedokteran      | 3   |
 
 **Kelompok Fisika Material dan Optika**
 
@@ -1103,52 +1100,53 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 
 #### 2.7.1 Sususan matakuliah
 
-| Semester 1 |                                |     |     |
-|------------|--------------------------------|-----|-----|
+**Semester 1**
+
 | KODE       | NAMA                           | APR | SKS |
+|------------|--------------------------------|-----|-----|
 | AIF101     | Pemrograman Berorientasi Objek |     | 6   |
 | AIF103     | Matematika Diskret             |     | 3   |
 | AIF105     | Pengantar Informatika          |     | 3   |
 | MKU001     | Pendidikan Pancasila           |     | 2   |
 | MKU008     | Etika                          |     | 2   |
 | MKU010     | Bahasa Inggris                 |     | 2   |
-| TOTAL      |                                |     | 18  |
 
-| Semester 2 |                             |     |     |
-|------------|-----------------------------|-----|-----|
+**Semester 2**
+
 | KODE       | NAMA                        | APR | SKS |
+|------------|-----------------------------|-----|-----|
 | AIF102     | Algoritma dan Struktur Data |     | 4   |
 | AIF104     | Logika Informatika          |     | 3   |
 | AIF106     | Sistem Dijital              |     | 3   |
 | AMS100     | Matematika Informatika      |     | 4   |
 | MKU009     | Bahasa Indonesia            |     | 2   |
 | MKU011     | Estetika                    |     | 2   |
-| TOTAL      |                             |     | 18  |
 
-| Semester 3      |                                        |     |     |
-|-----------------|----------------------------------------|-----|-----|
+**Semester 3**
+
 | KODE            | NAMA                                   | APR | SKS |
+|-----------------|----------------------------------------|-----|-----|
 | AIF201          | Analisis dan Desain Berorientasi Objek |     | 4   |
 | AIF203          | Struktur Diskret                       |     | 4   |
 | AIF205          | Arsitektur dan Organisasi Komputer     |     | 3   |
 | AMS200          | Probabilitas dan Statistika            |     | 3   |
 | MKU003 / MKU004 | Agama Katolik / Fenomenologi Agama     |     | 2   |
 | MKU012          | Logika                                 |     | 2   |
-| TOTAL           |                                        |     | 18  |
 
-| Semester 4 |                                   |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 4**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF202     | Desain dan Analisis Algoritma     |     | 4   |
 | AIF204     | Manajemen Informasi dan Basisdata |     | 4   |
 | AIF206     | Sistem Operasi                    |     | 4   |
 | AIF208     | Rekayasa Perangkat Lunak          |     | 4   |
 | AIF210     | Interaksi Manusia Komputer        |     | 2   |
-| TOTAL      |                                   |     | 18  |
 
-| Semester 5 |                              |     |     |
-|------------|------------------------------|-----|-----|
+**Semester 5**
+
 | KODE       | NAMA                         | APR | SKS |
+|------------|------------------------------|-----|-----|
 | AIF301     | Pengantar Sistem Cerdas      |     | 3   |
 | AIF303     | Pengantar Sistem Informasi   |     | 3   |
 | AIF305     | Jaringan Komputer            |     | 2   |
@@ -1158,11 +1156,11 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | AIF317     | Desain Antarmuka Grafis (1)  | R   | 2   |
 | AIFXXX     | MK Pilihan                   |     | 2   |
 | MKU002     | Kewarganegaraan              |     | 2   |
-| TOTAL      |                              |     | 18  |
 
-| Semester 6 |                                   |     |     |
-|------------|-----------------------------------|-----|-----|
+**Semester 6**
+
 | KODE       | NAMA                              | APR | SKS |
+|------------|-----------------------------------|-----|-----|
 | AIF302     | Penulisan Ilmiah                  |     | 2   |
 | AIF304     | Proyek Sistem Informasi 1 (2)     |     | 3   |
 | AIF306     | Proyek Informatika (2)            |     | 6   |
@@ -1171,78 +1169,49 @@ Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika
 | AIF316     | Komputasi Paralel (1)             | R   | 2   |
 | AIF318     | Pemrograman Aplikasi Bergerak (1) | R   | 2   |
 | AIFXXX     | MK Pilihan                        |     | 6   |
-| TOTAL      |                                   |     | 18  |
 
-| Semester 7 |                               |     |     |
-|------------|-------------------------------|-----|-----|
+**Semester 7**
+
 | KODE       | NAMA                          | APR | SKS |
+|------------|-------------------------------|-----|-----|
 | AIF401     | Skripsi 1                     |     | 4   |
 | AIF403     | Komputer dan Masyarakat       |     | 3   |
 | AIF405     | Proyek Sistem Informasi 2 (2) |     | 2   |
 | AIFXXX     | MK Pilihan                    |     | 12  |
-| TOTAL      |                               |     | 18  |
 
-| Semester 8 |               |     |     |
-|------------|---------------|-----|-----|
+**Semester 8**
+
 | KODE       | NAMA          | APR | SKS |
+|------------|---------------|-----|-----|
 | AIF402     | Skripsi 2     |     | 6   |
 | AIFXXX     | MK Pilihan    |     | 10  |
 | APS402     | Etika Profesi |     | 2   |
-| TOTAL      |               |     | 18  |
 
 Keterangan :
 
 1.  Mata kuliah pilihan wajib.
-
     Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
-
 2.  Mata kuliah projek.
-
     Mahasiswa harus lulus salah satu dari
-
--   Projek Informatika, atau
-
--   Projek Sistem Informasi 1 dan Projek Sistem Informasi 2
+    * Projek Informatika, atau
+    * Projek Sistem Informasi 1 dan Projek Sistem Informasi 2
 
 Aturan tambahan :
 
 1.  Mata kuliah pilihan dari luar jurusan
-
-    Banyaknya matakuliah pilihan dari luar jurusan yang dapat
-    diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat)
-    matakuliah.
-
-    Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 -
-    Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi
-    dianggap sebagai matakuliah pilihan dari dalam jurusan
-
+    Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+    Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan
 2.  Skor *Coding*
-
-    Beberapa matakuliah memiliki skor *coding* antara 1 s.d. 4. Dosen
-    wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1
-    s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki
-    jumlah *skor coding*\> 0.
-
+    Beberapa matakuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor *coding* \> 0.
 3.  Nilai minimum kuliah jalur pemrograman/algoritma
+    Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
 
-    Untuk mahasiswa yang ingin mengambil matakuliah jalur
-    pemrograman/algoritma yang tidak diadakan di semester yang
-    seharusnya, yaitu:
-
-    a.  Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau
-        Sem. Pendek
-
-    b.  Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap
-        atau Sem. Pendek
-
-    c.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem.
-        Pendek
-
-    d.  Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem.
-        Pendek
-
-> maka mahasiswa yang akan mengambil harus memiliki nilai terbaik
-> minimum 35 di mata kuliah tersebut.
+        a.  Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+        b.  Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+        c.  Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+        d.  Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+        
+    maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 #### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
