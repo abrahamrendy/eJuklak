@@ -1486,7 +1486,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     -   *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan
     kehadiran asisten untuk membantu memecahkan soal dan masalah teknis
     yang belum dikuasai.
-    -   *Praktikum*bertujuan melengkapi kegiatan perkuliahan, agar
+    -   *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar
     keterkaitan antara teori dan praktek dapat dikokohkan.
     -   *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk
     menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri
