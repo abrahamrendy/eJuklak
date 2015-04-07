@@ -40,3 +40,7 @@ blockquote {
     font-style: italic;
     text-align: center;
 }
+
+body {
+	font-family: "Arial", Times, Sans-serif;
+}
