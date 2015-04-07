@@ -466,9 +466,7 @@ prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
 1.  Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari
     salah satu bidang kajian (Rekayasa Keuangan atau Matematika
     Industri).
-
 2.  Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
-
 3.  Untuk Teknik Informatika, 30 SKS dengan banyaknya matakuliah pilihan
     dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah
     sebanyak-banyaknya 4 (empat) matakuliah.
@@ -477,7 +475,6 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 
 1.  Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi
     lain tidak perlu memenuhi prasyarat tersebut.
-
 2.  Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen
     dengannya, hanya dapat diperhitungkan salah satunya.
 
@@ -491,13 +488,11 @@ dengan hal ini, terdapat tiga kategori:
     dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir
     A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat
     menunjang penempuhan matakuliah berikutnya.
-
 2.  **Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah
     prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan
     adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi.
     Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih
     lanjut.
-
 3.  Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib
     memenuhi prasyarat ini.
 
@@ -597,8 +592,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 #### 2.5.1 Susunan Mata kuliah
 
-| Semester 1 |                              |     |     |
-|------------|------------------------------|-----|-----|
+**Semester 1**
 
 | KODE       | NAMA                         | APR | SKS |
 |------------|------------------------------|-----|-----|
@@ -609,8 +603,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | MKU012     | Logika                       | R   | 2   |
 | MKU010     | Bahasa Inggris               |     | 2   |
 
-| Semester 2 |
-|------------|
+**Semester 2**
 
 | KODE       | NAMA                 | APR | SKS |
 |------------|----------------------|-----|-----|
@@ -622,9 +615,7 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | MKU003     | Agama Katolik +      |     | 2   |
 | MKU004     | Fenomologi Agama +   |     |     |
 
-
-| Semester 3 |                      |     |     |
-|------------|----------------------|-----|-----|
+**Semester 3**
 
 | KODE       | NAMA                 | APR | SKS |
 |------------|----------------------|-----|-----|
@@ -635,45 +626,37 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | AMS271     | Metoda Matematika    |     | 3   |
 | MKU008     | Etika                | R   | 2   |
 
-
-| Semester 4 |                             |     |     |
-|------------|-----------------------------|-----|-----|
+**Semester 4**
 
 | KODE       | NAMA                        | APR | SKS |
-|------------|----------------------|-----|-----|
+|------------|-----------------------------|-----|-----|
 | AMS 222    | Aljabar Linear              | R   | 4   |
 | AMS 252    | Statistika Matematika       |     | 4   |
 | AMS 261    | Optimasi                    |     | 4   |
 | AMS 272    | Persamaan Diferensial Biasa |     | 4   |
 | AMS 273    | Komputasi Matematika        |     | 2   |
 
-
-| Semester 5 |                            |     |     |
-|------------|----------------------------|-----|-----|
+**Semester 5**
 
 | KODE       | NAMA                       | APR | SKS |
-|------------|----------------------|-----|-----|
+|------------|----------------------------|-----|-----|
 | AMS321     | Fungsi Kompleks            |     | 4   |
 | AMS351     | Proses Stokastik           |     | 4   |
 | AMS373     | Metoda Numerik             |     | 3   |
 | MKU002     | Pendidikan Kewarganegaraan |     | 2   |
 | ABCXYZ     | Pilihan                    |     | 6   |
 
-
-| Semester 6 |                  |     |     |
-|------------|------------------|-----|-----|
+**Semester 6**
 
 | KODE       | NAMA             | APR | SKS |
-|------------|----------------------|-----|-----|
+|------------|------------------|-----|-----|
 | AMS322     | Analisis Real    | R   | 4   |
 | MKU009     | Bahasa Indonesia |     | 2   |
 | ABCXYZ     | Pilihan          |     | 12  |
 |            |                  |     |     |
 |            |                  |     |     |
 
-
-| Semester 7 |                      |     |     |
-|------------|----------------------|-----|-----|
+**Semester 7**
 
 | KODE       | NAMA                 | APR | SKS |
 |------------|----------------------|-----|-----|
@@ -682,16 +665,12 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 | MKU001     | Pancasila            |     | 2   |
 | ABCXYZ     | Pilihan              |     | 9   |
 
-
-| Semester 8 |         |     |     |
-|------------|---------|-----|-----|
+**Semester 8**
 
 | KODE       | NAMA    | APR | SKS |
-|------------|----------------------|-----|-----|
+|------------|---------|-----|-----|
 | AMS499     | Skripsi |     | 6   |
 | ABCXYZ     | Pilihan |     | 9   |
-|            |         |     |     |
-|            |         |     |     |
                        
 
 #### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
@@ -704,18 +683,20 @@ tugas akhir.
 
 ##### Kelompok Bidang Kajian: Rekayasa Keuangan
 
-| Matematika Asuransi |                                    |     |
-|---------------------|------------------------------------|-----|
+**Matematika Asuransi**
+
 | KODE                | NAMA                               | SKS |
+|---------------------|------------------------------------|-----|
 | AMS330              | Pengantar  Matematika Asuransi     | 3   |
 | AMS331              | Matematika Asuransi                | 3   |
 | AMS431              | Metoda Statistika Asuransi         | 3   |
 | AMS432              | Teori Risiko                       | 3   |
 | AMS430              | Kapita Selekta Matematika Asuransi | 3   |
 
-| Matematika Keuangan |                                    |     |
-|---------------------|------------------------------------|-----|
+**Matematika Keuangan**
+
 | KODE                | NAMA                               | SKS |
+|---------------------|------------------------------------|-----|
 | AMS341              | Komputasi Keuangan                 | 3   |
 | AMS342              | Matematika Keuangan                | 3   |
 | AMS343              | Analisis Deret Waktu               | 3   |
@@ -723,16 +704,18 @@ tugas akhir.
 | AMS442              | Ekonometrika Keuangan              | 3   |
 | AMS440              | Kapita Selekta Matematika Keuangan | 3   |
 
-| Optimasi dan Teori Kontrol |                       |     |
-|----------------------------|-----------------------|-----|
+**Optimasi dan Teori Kontrol**
+
 | KODE                       | NAMA                  | SKS |
+|----------------------------|-----------------------|-----|
 | AMS361                     | Pemrograman NonLinear | 3   |
 | AMS461                     | Kontrol Optimum       | 3   |
 | AMS462                     | Kontrol Linear        | 3   |
 
-| Statistika & Penelitian Operasional |                                       |     |
-|-------------------------------------|---------------------------------------|-----|
+**Statistika & Penelitian Operasional**
+
 | KODE                                | NAMA                                  | SKS |
+|-------------------------------------|---------------------------------------|-----|
 | AMS352                              | Pemrograman Stokastik                 | 3   |
 | AMS353                              | Pengendalian Mutu                     | 3   |
 | AMS354                              | Model  Statistika                     | 3   |
@@ -746,9 +729,10 @@ tugas akhir.
 | AMS350                              | Kapita Selekta Statistika             | 3   |
 | AMS450                              | Kapita Selekta Penelitian Operasional | 3   |
 
-| Matematika Terapan |                                   |     |
-|--------------------|-----------------------------------|-----|
+**Matematika Terapan**
+
 | KODE               | NAMA                              | SKS |
+|--------------------|-----------------------------------|-----|
 | AMS471             | Sistem Dinamik                    | 3   |
 | AMS472             | Matematika Biologi                | 3   |
 | AMS371             | Persamaan Diferensial Parsial     | 3   |
@@ -756,9 +740,10 @@ tugas akhir.
 | AMS374             | Analisis Numerik                  | 3   |
 | AMS470             | Kapita Selekta Matematika Terapan | 3   |
 
-| Lain-lain |                                        |     |
-|-----------|----------------------------------------|-----|
+**Lain-lain**
+
 | KODE      | NAMA                                   | SKS |
+|-----------|----------------------------------------|-----|
 | AMS323    | Geometri                               | 3   |
 | AMS324    | Teori Bilangan                         | 3   |
 | AMS344    | Komputasi Saintifik                    | 3   |
@@ -789,20 +774,20 @@ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 #### 2.5.4 Deskripsi Singkat Mata kuliah Prodi Matematika
 
-| KODE MK | NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                           |
+| KODE MK/PRASYARAT | NAMA MATAKULIAH                                                                                                                                                                                     |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AMS121  | KALKULUS 1 (CALCULUS 1)                                                                                                                                                                                |
-| -       | Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.                                                                                                       |
+| DESKRIPSI MATAKULIAH | Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.                                                                                                       |
 | AMS123  | PEMECAHAN  MASALAH  MATEMATIKA (MATHEMATICAL PROBLEM SOLVING)                                                                                                                                          |
-| -       | Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.      |
+| DESKRIPSI MATAKULIAH | Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.      |
 | AMS151  | STATISTIKA ELEMENTER (ELEMENTARY STATISTICS)                                                                                                                                                           |
-| -       | Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab. |
+| DESKRIPSI MATAKULIAH | Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab. |
 | AMS122  | KALKULUS 2 (CALCULUS 2)                                                                                                                                                                                |
 | AMS121  | Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.                                                                                                |
 | AMS124  | MATEMATIKA DISKRET (DISCRETE MATHEMATICS)                                                                                                                                                              |
 | AMS123  | Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.                                                                                             |
 | AMS126  | ALJABAR MATRIKS (Matrix Algebra)                                                                                                                                                                       |
-| -       | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.                                      |
+| DESKRIPSI MATAKULIAH | Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.                                      |
 | AMS221  | KALKULUS  VEKTOR (VECTOR CALCULUS)                                                                                                                                                                     |
 | AMS122  | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.                                                                                       |
 | AMS231                 | TEORI  SUKU  BUNGA (THEORY OF INTEREST)                                                                                                                                                                                                                                                                                                                                                      |
