@@ -1348,7 +1348,7 @@ Gambar 3. Peta dan Prasyarat Matakuliah
 | AMS200       | PROBABILITAS & STATISTIKA / PROBABILITY & STATISTICS                                                                                                                                                                                                                                                                                                                                                                                 |
 | Deskripsi Mata Kuliah | Mempelajari konsep-konsep dasar dalam teori peluang dan statistika                                                                                                                                                                                                                                                                                                                                                                   |
 
-BAB 3 KEGIATAN AKADEMIK
+Bab 3 : Kegiatan Akademik
 ---------------------------------------------------------------------------------------------------------
 
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua
@@ -1795,9 +1795,7 @@ sebagai berikut :
     -   Transkrip akademik yang berisi daftar nilai mata kuliah yang
     ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
 
-BAB 4
-
-EVALUASI KEBERHASILAN BELAJAR
+Bab 4 : Evaluasi Keberhasilan Belajar
 
 Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan
 kepada :
@@ -1813,7 +1811,7 @@ kepada :
     Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan
     Alam Universitas Katolik Parahyangan.
 
-4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
+### 4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
 
 Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap
 hasil belajar mahasiswa dalam suatu mata kuliah, yang dilakukan secara
@@ -1888,7 +1886,7 @@ Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk
 melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan
 **Penilaian Acuan Normal** (**PAN**).
 
-4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
+### 4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
 
 Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak
 mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
@@ -1901,7 +1899,7 @@ mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
 
 4.  Evaluasi Keberhasilan Belajar Tahap Akhir
 
-4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
+#### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
 
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah
 mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini
@@ -1913,7 +1911,7 @@ kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan
 **beban kredit** yang dapat ditempuh mahasiswa pada **semester
 berikutnya**.
 
-4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
+#### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
 
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2
 (dua) tahun pertama**, atau **pada akhir masa studi terpakai selama 4
