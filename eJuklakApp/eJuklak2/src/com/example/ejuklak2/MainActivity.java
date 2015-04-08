@@ -22,11 +22,15 @@ import android.view.MenuItem;
 import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.ExpandableListView.OnGroupCollapseListener;
 import android.widget.ExpandableListView.OnGroupExpandListener;
+import android.widget.FrameLayout;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
  
@@ -45,12 +49,22 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
  
         //set title
-       // title = (TextView)findViewById(R.id.title);
+        //title = (TextView)findViewById(R.id.title);
         
         //set web view
-        webView = (WebView) findViewById(R.id.web_view);
+        LinearLayout parentLayout = (LinearLayout)findViewById(R.id.parent_layout);
+        TextView tv = new TextView(this);
+        tv.setTextSize(25.0f);
+        tv.setText("Hello World!");
+        parentLayout.addView(new TextView(this));
+        webView = new WebView(this);
+        parentLayout.addView(webView);
+        
+        //webView = (WebView) findViewById(R.id.web_view);
+        webView.setHorizontalScrollBarEnabled(false);
         webView.setVerticalScrollBarEnabled(true);
         webView.loadUrl("file:///android_asset/juklakhtml.html");
+        //webView.requestFocusFromTouch();z
         
         //set action bar's icon
         ActionBar actionBar = getSupportActionBar();
@@ -182,6 +196,12 @@ public class MainActivity extends ActionBarActivity {
 		listDataChild.put(listDataHeader.get(5), lampiran);
 	}
     
+
+    private static final int SEARCH_MENU_ID = Menu.FIRST;
+    LinearLayout container;
+    Button nextButton, closeButton;
+    EditText findBox;
+    
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
@@ -191,7 +211,6 @@ public class MainActivity extends ActionBarActivity {
         SearchManager searchManager = (SearchManager) getSystemService(Context.SEARCH_SERVICE);
         SearchView searchView = (SearchView) menu.findItem(R.id.action_search).getActionView();
         searchView.setSearchableInfo(searchManager.getSearchableInfo(getComponentName()));
-        
         return super.onCreateOptionsMenu(menu);
     }
     
@@ -199,12 +218,30 @@ public class MainActivity extends ActionBarActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         // Take appropriate action for each action item click
         switch (item.getItemId()) {
-	        case R.id.action_search: {
-                Toast.makeText(getApplicationContext(), "Search!", Toast.LENGTH_SHORT).show();
-	            return true;
+	        case SEARCH_MENU_ID: {
+                search();
+	        	return true;
 	        }
 	        default: return super.onOptionsItemSelected(item);
         }
+    }
+    
+    public void search() {
+    	Toast.makeText(getApplicationContext(), "SEARCH BABI", Toast.LENGTH_SHORT).show();
+    	container = (LinearLayout)findViewById(R.id.parent_layout);  
+        
+        nextButton = new Button(this);  
+        nextButton.setText("Next");  
+        container.addView(nextButton);  
+          
+        closeButton = new Button(this);
+        closeButton.setText("Close");
+        container.addView(closeButton);
+          
+        findBox = new EditText(this);  
+	    findBox.setMinEms(30);  
+	    findBox.setSingleLine(true);  
+	    container.addView(findBox);  
     }
     
     @Override
@@ -227,8 +264,8 @@ public class MainActivity extends ActionBarActivity {
              * For now we just display the query only
              */
             //txtQuery.setText("Search Query: " + query);
-
-            Toast.makeText(getApplicationContext(), "Search Query: " + query, Toast.LENGTH_SHORT).show();
+            search();
+            //Toast.makeText(getApplicationContext(), "Search Query: " + query, Toast.LENGTH_SHORT).show();
  
         }
  
