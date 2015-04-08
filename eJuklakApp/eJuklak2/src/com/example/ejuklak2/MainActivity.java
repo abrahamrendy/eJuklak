@@ -219,15 +219,15 @@ public class MainActivity extends ActionBarActivity {
         // Take appropriate action for each action item click
         switch (item.getItemId()) {
 	        case SEARCH_MENU_ID: {
-                search();
 	        	return true;
 	        }
 	        default: return super.onOptionsItemSelected(item);
         }
     }
     
-    public void search() {
-    	Toast.makeText(getApplicationContext(), "SEARCH BABI", Toast.LENGTH_SHORT).show();
+    public void search(String query) {
+    	Toast.makeText(getApplicationContext(), "Search Query: " + query, Toast.LENGTH_SHORT).show();
+    	 
     	container = (LinearLayout)findViewById(R.id.parent_layout);  
         
         nextButton = new Button(this);  
@@ -264,7 +264,7 @@ public class MainActivity extends ActionBarActivity {
              * For now we just display the query only
              */
             //txtQuery.setText("Search Query: " + query);
-            search();
+            search(query);
             //Toast.makeText(getApplicationContext(), "Search Query: " + query, Toast.LENGTH_SHORT).show();
  
         }
