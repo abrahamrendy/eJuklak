@@ -1486,7 +1486,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     -   *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan
     kehadiran asisten untuk membantu memecahkan soal dan masalah teknis
     yang belum dikuasai.
-    -   *Praktikum*bertujuan melengkapi kegiatan perkuliahan, agar
+    -   *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar
     keterkaitan antara teori dan praktek dapat dikokohkan.
     -   *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk
     menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri
@@ -1528,7 +1528,7 @@ Syarat untuk mengikuti UTS dan UAS:
 2.  **Telah melunasi** seluruh biaya kuliah semester terkait.
     Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang
     mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
-3.  **Membawa KTMyang sah** untuk semester terkait, atau surat
+3.  **Membawa KTM yang sah** untuk semester terkait, atau surat
     keterangan pengganti KTM dari Biro Administrasi Akademik dan
     Kemahasiswaan (BAA) bagi yang kehilangan KTM.
 
