@@ -1348,7 +1348,7 @@ Gambar 3. Peta dan Prasyarat Matakuliah
 | AMS200       | PROBABILITAS & STATISTIKA / PROBABILITY & STATISTICS                                                                                                                                                                                                                                                                                                                                                                                 |
 | Deskripsi Mata Kuliah | Mempelajari konsep-konsep dasar dalam teori peluang dan statistika                                                                                                                                                                                                                                                                                                                                                                   |
 
-BAB 3 KEGIATAN AKADEMIK
+Bab 3 : Kegiatan Akademik
 ---------------------------------------------------------------------------------------------------------
 
 Kegiatan akademik untuk satu tahun kuliah diselenggarakan dalam dua
@@ -1486,7 +1486,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     -   *Responsi* merupakan kegiatan dimana mahasiswa dapat memanfaatkan
     kehadiran asisten untuk membantu memecahkan soal dan masalah teknis
     yang belum dikuasai.
-    -   *Praktikum*bertujuan melengkapi kegiatan perkuliahan, agar
+    -   *Praktikum* bertujuan melengkapi kegiatan perkuliahan, agar
     keterkaitan antara teori dan praktek dapat dikokohkan.
     -   *Pekerjaan rumah* merupakan latihan yang diberikan oleh dosen untuk
     menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri
@@ -1528,7 +1528,7 @@ Syarat untuk mengikuti UTS dan UAS:
 2.  **Telah melunasi** seluruh biaya kuliah semester terkait.
     Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang
     mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
-3.  **Membawa KTMyang sah** untuk semester terkait, atau surat
+3.  **Membawa KTM yang sah** untuk semester terkait, atau surat
     keterangan pengganti KTM dari Biro Administrasi Akademik dan
     Kemahasiswaan (BAA) bagi yang kehilangan KTM.
 
@@ -1795,9 +1795,7 @@ sebagai berikut :
     -   Transkrip akademik yang berisi daftar nilai mata kuliah yang
     ditempuh selama yang bersangkutan berstatus aktif sebagai mahasiswa.
 
-BAB 4
-
-EVALUASI KEBERHASILAN BELAJAR
+Bab 4 : Evaluasi Keberhasilan Belajar
 
 Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan
 kepada :
@@ -1813,7 +1811,7 @@ kepada :
     Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan
     Alam Universitas Katolik Parahyangan.
 
-4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
+### 4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah
 
 Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap
 hasil belajar mahasiswa dalam suatu mata kuliah, yang dilakukan secara
@@ -1888,7 +1886,7 @@ Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk
 melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan
 **Penilaian Acuan Normal** (**PAN**).
 
-4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
+### 4.2 Evaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar
 
 Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak
 mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
@@ -1901,7 +1899,7 @@ mahasiswa mulai masuk ke program studinya. Evaluasi ini terdiri atas:
 
 4.  Evaluasi Keberhasilan Belajar Tahap Akhir
 
-4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
+#### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
 
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah
 mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini
@@ -1913,7 +1911,7 @@ kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan
 **beban kredit** yang dapat ditempuh mahasiswa pada **semester
 berikutnya**.
 
-4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
+#### 4.2.2 Evaluasi Keberhasilan Belajar Tahap Pertama
 
 Evaluasi Keberhasilan Belajar Tahap Pertama dilakukan **pada akhir 2
 (dua) tahun pertama**, atau **pada akhir masa studi terpakai selama 4
