@@ -66,17 +66,44 @@ public class MainActivity extends ActionBarActivity {
         webView.loadUrl("file:///android_asset/juklakhtml.html");
         //webView.requestFocusFromTouch();z
         
-        //set action bar's icon
+        //set action bar
         ActionBar actionBar = getSupportActionBar();
         actionBar.setLogo(R.drawable.ic_launcher);
         actionBar.setDisplayUseLogoEnabled(true);
         actionBar.setDisplayShowHomeEnabled(true);
         
-        // get the listview
+        //handling intent for searching purpose
+        handleIntent(getIntent());
+        
+        this.createMainDrawer();
+    }
+    
+    public void createMainDrawer() {
+        this.setTitle(R.string.app_name);
+        expListView = (ExpandableListView) findViewById(R.id.left_drawer);
+        prepareMainListData();
+        listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
+        expListView.setAdapter(listAdapter);
+        
+        // Listview Group click listener
+        expListView.setOnGroupClickListener(new OnGroupClickListener() {
+            @Override
+            public boolean onGroupClick(ExpandableListView parent, View v, int groupPosition, long id) {
+            	//set ActionBar title
+                setTitle(listDataHeader.get((int)id));
+            	if(groupPosition==1 || groupPosition==2)createExpandableDrawer((int)id);
+            	return true;
+            }
+        });
+    }
+    
+    private void createExpandableDrawer(int id) {
+        
+    	// get the listview
         expListView = (ExpandableListView) findViewById(R.id.left_drawer);
  
         // preparing list data
-        prepareListData();
+        prepareListData(id);
  
         listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
  
@@ -130,15 +157,16 @@ public class MainActivity extends ActionBarActivity {
                 return false;
             }
         });
-        
-        //handling intent for searching purpose
-        handleIntent(getIntent());
     }
     
-    private void prepareListData() {
-		listDataHeader = new ArrayList<String>();
+    @Override
+    public void onBackPressed() {
+        this.createMainDrawer();
+    }
+    
+    private void prepareMainListData() {
+    	listDataHeader = new ArrayList<String>();
 		listDataChild = new HashMap<String, List<String>>();
-
 		// Adding parent data
 		listDataHeader.add("Kata Pengantar");
 		listDataHeader.add("Bab 1");
@@ -146,54 +174,97 @@ public class MainActivity extends ActionBarActivity {
 		listDataHeader.add("Bab 3");
 		listDataHeader.add("Bab 4");
 		listDataHeader.add("Lampiran");
-
-		// Adding child data
-		List<String> kataPengantar = new ArrayList<String>();
-		kataPengantar.add("Kata Pengantar");
-		
-		List<String> bab1 = new ArrayList<String>();
-		bab1.add("1.1 Sejarah Fakultas Teknologi dan Sains");
-		bab1.add("1.2 Visi, Misi, Tujuan, dan Sasaran FTIS");
-		bab1.add("1.3 Keberhasilan FTIS");
-		bab1.add("1.4 Pengelola Fakultas");
-		bab1.add("1.5 Daftar Dosen FTIS");
-
-		List<String> bab2 = new ArrayList<String>();
-		bab2.add("2.1 Mata Kuliah Pilihan");
-		bab2.add("2.2 Mata Kuliah Prasyarat");
-		bab2.add("2.3 Mata Kuliah Layanan");
-		bab2.add("2.4 Mata Kuliah Umum");
-		bab2.add("2.5 Kurikulum Program Studi Matematika");
-		bab2.add("2.6 Kurikulum Program Studi Fisika");
-		bab2.add("2.7 Kurikulum Program Studi Teknik Informatika");
-
-		List<String> bab3 = new ArrayList<String>();
-		bab3.add("3.1 Penyusunan Rencana Studi");
-		bab3.add("3.2 Kegiatan Perkuliahan");
-		bab3.add("3.3 Tata Cara Ujian");
-		bab3.add("3.4 Cuti dan Gencat Studi");
-		bab3.add("3.5 Pengunduran Diri Sebagai Mahasiswa");
-
-		List<String> bab4 = new ArrayList<String>();
-		bab4.add("4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah");
-		bab4.add("4.2 Evaluasi Keberhasilan Belajar Dalam Satu Tahap Belajar");
-		bab4.add("4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR");
-
-		List<String> lampiran = new ArrayList<String>();
-		lampiran.add("Lampiran 1");
-		lampiran.add("Lampiran 2");
-		lampiran.add("Lampiran 3");
-		lampiran.add("Lampiran 4");
-		lampiran.add("Lampiran 5");
-		lampiran.add("Lampiran 6");
-		lampiran.add("Lampiran 7");
-
-		listDataChild.put(listDataHeader.get(0), kataPengantar);
-		listDataChild.put(listDataHeader.get(1), bab1);
-		listDataChild.put(listDataHeader.get(2), bab2);
-		listDataChild.put(listDataHeader.get(3), bab3);
-		listDataChild.put(listDataHeader.get(4), bab4);
-		listDataChild.put(listDataHeader.get(5), lampiran);
+		listDataChild.put(listDataHeader.get(0), new ArrayList<String>());
+		listDataChild.put(listDataHeader.get(1), new ArrayList<String>());
+		listDataChild.put(listDataHeader.get(2), new ArrayList<String>());
+		listDataChild.put(listDataHeader.get(3), new ArrayList<String>());
+		listDataChild.put(listDataHeader.get(4), new ArrayList<String>());
+		listDataChild.put(listDataHeader.get(5), new ArrayList<String>());
+    }
+    
+    private void prepareListData(int id) {
+		listDataHeader = new ArrayList<String>();
+		listDataChild = new HashMap<String, List<String>>();
+		switch(id) {
+			case(1) :
+				listDataHeader.add("1.1 Sejarah Fakultas Teknologi dan Sains");
+				listDataHeader.add("1.2 Visi, Misi, Tujuan, dan Sasaran FTIS");
+				listDataHeader.add("1.3 Keberhasilan FTIS");
+				listDataHeader.add("1.4 Pengelola Fakultas");
+				listDataHeader.add("1.5 Daftar Dosen FTIS");
+				List<String> bab11 = new ArrayList<String>();
+				List<String> bab12 = new ArrayList<String>();
+				List<String> bab13 = new ArrayList<String>();
+				List<String> bab14 = new ArrayList<String>();
+				List<String> bab15 = new ArrayList<String>();
+				bab12.add("1.2.1 Visi FTIS");
+				bab12.add("1.2.2 Misi FTIS");
+				bab12.add("1.2.3 Tujuan FTIS");
+				bab12.add("1.2.4 Sasaran FTIS");
+				listDataChild.put(listDataHeader.get(0), bab11);
+				listDataChild.put(listDataHeader.get(1), bab12);
+				listDataChild.put(listDataHeader.get(2), bab13);
+				listDataChild.put(listDataHeader.get(3), bab14);
+				listDataChild.put(listDataHeader.get(4), bab15);
+				break;
+				
+			case(2) :
+				listDataHeader.add("2.1 Mata Kuliah Pilihan");
+				listDataHeader.add("2.2 Mata Kuliah Prasyarat");
+				listDataHeader.add("2.3 Mata Kuliah Layanan");
+				listDataHeader.add("2.4 Mata Kuliah Umum");
+				listDataHeader.add("2.5 Kurikulum Program Studi Matematika");
+				listDataHeader.add("2.6 Kurikulum Program Studi Fisika");
+				listDataHeader.add("2.7 Kurikulum Program Studi Teknik Informatika");
+				List<String> bab21 = new ArrayList<String>();
+				List<String> bab22 = new ArrayList<String>();
+				List<String> bab23 = new ArrayList<String>();
+				List<String> bab24 = new ArrayList<String>();
+				List<String> bab25 = new ArrayList<String>();
+				List<String> bab26 = new ArrayList<String>();
+				List<String> bab27 = new ArrayList<String>();
+				bab23.add("2.3.1 Mata Kuliah Layanan Program Studi Matematika");
+				bab23.add("2.3.2 Mata Kuliah Layanan Program Studi Fisika");
+				bab23.add("2.3.3 Mata Kuliah Layanan Program Studi Teknik Informatika");
+				bab23.add("2.3.3 Mata Kuliah Layanan Program Studi Teknik Informatika");
+				bab24.add("2.4.1 Susunan Mata Kuliah Umum");
+				bab24.add("2.4.2 Uraian Singkat Mata Kuliah Umum");
+				listDataChild.put(listDataHeader.get(0), bab21);
+				listDataChild.put(listDataHeader.get(1), bab22);
+				listDataChild.put(listDataHeader.get(2), bab23);
+				listDataChild.put(listDataHeader.get(3), bab24);
+				listDataChild.put(listDataHeader.get(4), bab25);
+				listDataChild.put(listDataHeader.get(3), bab26);
+				listDataChild.put(listDataHeader.get(4), bab27);
+				break;
+				
+			case(3) :
+				List<String> bab3 = new ArrayList<String>();
+				bab3.add("3.1 Penyusunan Rencana Studi");
+				bab3.add("3.2 Kegiatan Perkuliahan");
+				bab3.add("3.3 Tata Cara Ujian");
+				bab3.add("3.4 Cuti dan Gencat Studi");
+				bab3.add("3.5 Pengunduran Diri Sebagai Mahasiswa");
+				break;
+				
+			case(4) :
+				List<String> bab4 = new ArrayList<String>();
+				bab4.add("4.1 Evaluasi Keberhasilan Belajar Tiap Mata Kuliah");
+				bab4.add("4.2 Evaluasi Keberhasilan Belajar Dalam Satu Tahap Belajar");
+				bab4.add("4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR");
+				break;
+				
+			case(5) :
+				List<String> lampiran = new ArrayList<String>();
+				lampiran.add("Lampiran 1");
+				lampiran.add("Lampiran 2");
+				lampiran.add("Lampiran 3");
+				lampiran.add("Lampiran 4");
+				lampiran.add("Lampiran 5");
+				lampiran.add("Lampiran 6");
+				lampiran.add("Lampiran 7");
+				
+		}
 	}
     
 
@@ -227,7 +298,8 @@ public class MainActivity extends ActionBarActivity {
     
     public void search(String query) {
     	Toast.makeText(getApplicationContext(), "Search Query: " + query, Toast.LENGTH_SHORT).show();
-    	 
+    	
+    	/*
     	container = (LinearLayout)findViewById(R.id.parent_layout);  
         
         nextButton = new Button(this);  
@@ -241,7 +313,8 @@ public class MainActivity extends ActionBarActivity {
         findBox = new EditText(this);  
 	    findBox.setMinEms(30);  
 	    findBox.setSingleLine(true);  
-	    container.addView(findBox);  
+	    container.addView(findBox);
+	    */  
     }
     
     @Override
