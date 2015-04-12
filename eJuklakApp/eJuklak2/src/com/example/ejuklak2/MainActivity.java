@@ -227,15 +227,31 @@ public class MainActivity extends ActionBarActivity {
 				bab23.add("2.3.2 Mata Kuliah Layanan Program Studi Fisika");
 				bab23.add("2.3.3 Mata Kuliah Layanan Program Studi Teknik Informatika");
 				bab23.add("2.3.3 Mata Kuliah Layanan Program Studi Teknik Informatika");
+				
 				bab24.add("2.4.1 Susunan Mata Kuliah Umum");
 				bab24.add("2.4.2 Uraian Singkat Mata Kuliah Umum");
+				
+				bab25.add("2.5.1 Susunan Mata Kuliah");
+				bab25.add("2.5.2 Mata Kuliah Pilihan Program Studi Matematika");
+				bab25.add("2.5.3 Peta dan Prasyarat");
+				bab25.add("2.5.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika");
+				
+				bab26.add("2.6.1 Susunan Mata Kuliah");
+				bab26.add("2.6.2 Mata Kuliah Pilihan Program Studi Fisika");
+				bab26.add("2.6.3 Peta dan Prasyarat");
+				bab26.add("2.6.4 Deskripsi Singkat Mata Kuliah Program Studi Fisika");
+				
+				bab27.add("2.7.1 Susunan Mata Kuliah");
+				bab27.add("2.7.2 Mata Kuliah Pilihan Program Studi Teknik Informatika");
+				bab27.add("2.7.3 Peta dan Prasyarat");
+				bab27.add("2.7.4 Deskripsi Singkat Mata Kuliah Program Studi Teknik Informatika");
 				listDataChild.put(listDataHeader.get(0), bab21);
 				listDataChild.put(listDataHeader.get(1), bab22);
 				listDataChild.put(listDataHeader.get(2), bab23);
 				listDataChild.put(listDataHeader.get(3), bab24);
 				listDataChild.put(listDataHeader.get(4), bab25);
-				listDataChild.put(listDataHeader.get(3), bab26);
-				listDataChild.put(listDataHeader.get(4), bab27);
+				listDataChild.put(listDataHeader.get(5), bab26);
+				listDataChild.put(listDataHeader.get(6), bab27);
 				break;
 				
 			case(3) :
