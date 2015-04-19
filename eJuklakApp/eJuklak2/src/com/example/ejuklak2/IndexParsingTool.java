@@ -1,5 +1,3 @@
-package com.example.ejuklak2;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -17,6 +15,11 @@ import java.util.LinkedList;
 public class IndexParsingTool {
 
     /**
+     * The head for Bab
+     */
+    private LinkedList<Head> heads = new LinkedList<>();
+
+    /**
      * Get the heads (h2 - h6) from file "filePath" (.html)
      *
      * @param filePath the path of the html file
@@ -25,14 +28,13 @@ public class IndexParsingTool {
      * @throws FileNotFoundException
      * @throws IOException
      */
-    public LinkedList[] getHeads(String filePath) throws FileNotFoundException, IOException {
+    public void getHeads(String filePath) throws FileNotFoundException, IOException {
         BufferedReader r = new BufferedReader(new FileReader(new File(filePath)));//reader
-        LinkedList<Head>[] heads = new LinkedList[5];//h2, h3, h4, h5, h6 sequentially
         int i, j;//counter
-        for (i = 0; i < 5; i++) {
-            heads[i] = new LinkedList();
-        }
+        int bab = 0, subbab1 = 0, subbab2 = 0;
         String[] splitTag;//container for the splitted tag, index 1 is the id
+        String[] splitText;//container for the splitted text, front index element is used to determine the level
+        String[] splitText2;//container for the splitted text, front index element is used to determine the level
         String input = new String(), tag = new String(), text = new String(), id = new String();
         boolean isTag = false, isHead = false;
         input = r.readLine();
@@ -52,20 +54,29 @@ public class IndexParsingTool {
                         } else if (tag.startsWith("/h1") || tag.startsWith("/h2") || tag.startsWith("/h3") || tag.startsWith("/h4") || tag.startsWith("/h5") || tag.startsWith("/h6")) {
                             switch (tag) {
                                 case "/h2":
-                                    heads[0].add(new Head(text, id));
+                                    //if not bab, such as Kata Pengantar
+                                    if (text.startsWith("Bab") || text.startsWith("BAB")) {
+                                        heads.add(new Head(text, id));
+                                        bab++;
+                                    } else {
+                                        heads.add(new Head(text, id));
+                                    }
                                     break;
                                 case "/h3":
-                                    heads[1].add(new Head(text, id));
+                                    subbab1 = (text.charAt(2) - 49);
+                                    heads.get(bab).child.add(new Head(text, id));
                                     break;
                                 case "/h4":
-                                    heads[2].add(new Head(text, id));
+//                                    subbab2 = (text.charAt(4) - 49);
+//                                    System.out.println(subbab2);
+                                    heads.get(bab).child.get(subbab1).child.add(new Head(text, id));
                                     break;
-                                case "/h5":
-                                    heads[3].add(new Head(text, id));
-                                    break;
-                                case "/h6":
-                                    heads[4].add(new Head(text, id));
-                                    break;
+//                                case "/h5":
+//                                    heads.add(new Head(text, id));
+//                                    break;
+//                                case "/h6":
+//                                    heads.add(new Head(text, id));
+//                                    break;
                             }
                             text = new String();
                             id = new String();
@@ -94,16 +105,62 @@ public class IndexParsingTool {
             input = r.readLine();//get the next line
         }
         //uncomment to check content of the head(s)
-//        for (i = 0; i < heads.length; i++) {
-//            if (heads[i].size() > 0) {
-//                System.out.println("Head " + (i + 2));
-//                for (j = 0; j < heads[i].size(); j++) {
-//                    System.out.println("id = " + heads[i].get(j).getId() + ", Text = " + heads[i].get(i).getText());
+//        for (i = 1; i < heads.size(); i++) {
+//            System.out.println("BAB " + i);
+////            System.out.print("Id : " + heads.get(i).getId());
+//            System.out.println("Text : " + heads.get(i).getText());
+//            for (j = 0; j < heads.get(i).child.size(); j++) {
+////                System.out.print("Id : " + heads.get(i).child.get(j).getId());
+//                System.out.println("Text : " + heads.get(i).child.get(j).getText());
+//                //print subbab12
+//                for (int a = 0; a < heads.get(i).child.get(j).child.size(); a++) {
+////                    System.out.print("Id : " + heads.get(i).child.get(j).child.get(a).getId());
+//                    System.out.println("Text : " + heads.get(i).child.get(j).child.get(a).getText());
 //                }
-//                System.out.println("-----------------------------");
+//            }
+//            System.out.println("-------------------------------------------------------------------------------------------------");
+//        }
+        //uncommnet to check the size of the heads
+//        for(int a = 1; a < heads.size(); a++){
+//            System.out.println("Bab : " + a);
+//            System.out.println("Banyak subbab1 : " + heads.get(a).child.size());
+//            for(int b = 0; b < heads.get(a).child.size(); b++){
+//                System.out.println("Banyak subbab2 : " + heads.get(a).child.get(b).child.size());
 //            }
 //        }
-        return heads;
+    }
+
+    /**
+     * Get Bab, start from index 1 for bab1
+     *
+     * @param bab the bab index
+     * @return the bab
+     */
+    public Head getBab(int bab) {
+        return heads.get(bab);
+    }
+
+    /**
+     * Get subbab1, bab from 1, subbab1 from 1
+     *
+     * @param bab the bab index
+     * @param subbab1 the subbab index
+     * @return the subbab
+     */
+    public Head getSubbabLev1(int bab, int subbab1) {
+        return heads.get(bab).child.get(subbab1 - 1);
+    }
+
+    /**
+     * Get subbab2, bab from 1, subbab1 from 1, subbab2 from 1
+     *
+     * @param bab the bab index
+     * @param subbab1 the subbab1 index
+     * @param subbab2 the subbab2 index
+     * @return the subbab2
+     */
+    public Head getSubbabLev2(int bab, int subbab1, int subbab2) {
+        return heads.get(bab).child.get(subbab1 - 1).child.get(subbab2 - 1);
     }
 
     /**
@@ -122,6 +179,10 @@ public class IndexParsingTool {
          * The head's id
          */
         private String id;
+        /**
+         * The head's child (such as 1.1, 1.1.1)
+         */
+        LinkedList<Head> child;
 
         /**
          * Constructor for the head
@@ -132,6 +193,7 @@ public class IndexParsingTool {
         public Head(String text, String id) {
             this.text = text;
             this.id = id;
+            this.child = new LinkedList<>();
         }
 
         /**
