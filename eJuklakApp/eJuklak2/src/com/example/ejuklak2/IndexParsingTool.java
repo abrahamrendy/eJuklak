@@ -1,9 +1,14 @@
+package com.example.ejuklak2;
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.LinkedList;
+
+import android.content.Context;
 
 /**
  * Class to implements index parsing from a html file, get the h2 - h6 as an
@@ -19,17 +24,19 @@ public class IndexParsingTool {
      */
     private LinkedList<Head> heads = new LinkedList<>();
 
+    public IndexParsingTool(Context context, String fileName) throws FileNotFoundException, IOException {
+        BufferedReader r = new BufferedReader(new InputStreamReader(context.getAssets().open(fileName)));//reader
+    	init(r);
+    }
+    
     /**
      * Get the heads (h2 - h6) from file "filePath" (.html)
      *
      * @param filePath the path of the html file
-     * @return the heads (array, 0 = h2, 1 = h3, 2 = h4, 3 = h5, 4 = h6) as an
-     * array of Head type object(s)
      * @throws FileNotFoundException
      * @throws IOException
      */
-    public void getHeads(String filePath) throws FileNotFoundException, IOException {
-        BufferedReader r = new BufferedReader(new FileReader(new File(filePath)));//reader
+    public void init(BufferedReader r) throws FileNotFoundException, IOException {
         int i, j;//counter
         int bab = 0, subbab1 = 0, subbab2 = 0;
         String[] splitTag;//container for the splitted tag, index 1 is the id
@@ -130,6 +137,10 @@ public class IndexParsingTool {
 //        }
     }
 
+    public LinkedList<Head> getHead() {
+    	return this.heads;
+    }
+    
     /**
      * Get Bab, start from index 1 for bab1
      *
@@ -163,73 +174,4 @@ public class IndexParsingTool {
         return heads.get(bab).child.get(subbab1 - 1).child.get(subbab2 - 1);
     }
 
-    /**
-     * Class for a head in html, contains the text string and the id
-     *
-     * @author Benediktus Devin
-     * @version 1 (4/2/2015)
-     */
-    class Head {
-
-        /**
-         * The head's text
-         */
-        private String text;
-        /**
-         * The head's id
-         */
-        private String id;
-        /**
-         * The head's child (such as 1.1, 1.1.1)
-         */
-        LinkedList<Head> child;
-
-        /**
-         * Constructor for the head
-         *
-         * @param text the text
-         * @param id the id
-         */
-        public Head(String text, String id) {
-            this.text = text;
-            this.id = id;
-            this.child = new LinkedList<>();
-        }
-
-        /**
-         * Get the head's id
-         *
-         * @return the id
-         */
-        public String getId() {
-            return this.id;
-        }
-
-        /**
-         * Get the head's text
-         *
-         * @return the text
-         */
-        public String getText() {
-            return this.text;
-        }
-
-        /**
-         * Set the head's id
-         *
-         * @param id the new id
-         */
-        public void setId(String id) {
-            this.id = id;
-        }
-
-        /**
-         * Set the head's text
-         *
-         * @param text the new text
-         */
-        public void setText(String text) {
-            this.text = text;
-        }
-    }
 }
