@@ -1824,44 +1824,44 @@ LAMPIRAN 3
 
 LAMPIRAN 4
 --------------------------------------------
-![image L4.1](images/L4_1.png)
+![image L4.1](images/4_1.png)
 
-![image L4.2](images/L4_2.png)
+![image L4.2](images/4_2.png)
 
-![image L4.3](images/L4_3.png)
+![image L4.3](images/4_3.png)
 
-![image L4.4](images/L4_4.png)
+![image L4.4](images/4_4.png)
 
-![image L4.5](images/L4_5.png)
+![image L4.5](images/4_5.png)
 
-![image L4.6](images/L4_6.png)
+![image L4.6](images/4_6.png)
 
 LAMPIRAN 5
 --------------------------------------------
-![image L5.1](images/L5_1.png)
+![image L5.1](images/5_1.png)
 
-![image L5.2](images/L5_2.png)
+![image L5.2](images/5_2.png)
 
-![image L5.3](images/L5_3.png)
+![image L5.3](images/5_3.png)
 
 
 LAMPIRAN 6
 --------------------------------------------
-![image L6.1](images/L6_1.png)
+![image L6.1](images/6_1.png)
 
-![image L6.2](images/L6_2.png)
+![image L6.2](images/6_2.png)
 
 
 LAMPIRAN 7
 --------------------------------------------
-![image L7.1](images/L7_1.png)
+![image L7.1](images/7_1.png)
 
-![image L7.2](images/L7_2.png)
+![image L7.2](images/7_2.png)
 
-![image L7.3](images/L7_3.png)
+![image L7.3](images/7_3.png)
 
-![image L7.4](images/L7_4.png)
+![image L7.4](images/7_4.png)
 
-![image L7.5](images/L7_5.png)
+![image L7.5](images/7_5.png)
 
-![image L7.6](images/L7_6.png)
+![image L7.6](images/7_6.png)
