@@ -1326,7 +1326,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri
     maupun kelompok.
 
-3.  **Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan
+3.  **Kegiatan akademik mandiri (± 1 jam / sks)**, merupakan kegiatan
     yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat
     lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan
     dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas
@@ -1463,7 +1463,7 @@ E.  **Pelaksanaan**
 ####3.3.3 Sanksi
 
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi
-sanksi berupa:
+sanksi berupa :
 
 1.  Untuk kali pertama: peringatan dari pengawas ujian, yang wajib
     dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa
@@ -1582,7 +1582,7 @@ evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2
 berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
 
 Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat
-studi** adalah sebagai berikut:
+studi** adalah sebagai berikut :
 
 1.  Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih
     dahulu kepada Dekan FTIS, dilengkapi dengan
@@ -1644,12 +1644,12 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
-| BENTUK KEGIATAN        | KOMPONEN KEGIATAN                                           | KOMPONEN EVALUASI (ANGKA)                                                | KOMPONEN EVALUASI (%)                   |
-|------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------|
-| Perkuliahan            | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)                                              | 20% - 40%                               |
-| Perkuliahan            | Tatap Muka                                                  | Angka Ujian Tengah Semester (AUTS) dan Angka Ujian Akhir Semester (AUAS) | 30% - 50%                               |
-| Seminar/ Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi. |
-| Skripsi                | Penyusunan dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi. |
+| BENTUK KEGIATAN        | KOMPONEN KEGIATAN                                           | KOMPONEN EVALUASI (ANGKA)                                                | KOMPONEN EVALUASI (%)                                     |
+|------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|
+| Perkuliahan            | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)                                              | 20% - 40%                                                 |
+| Perkuliahan            | Tatap Muka                                                  | Angka Ujian Tengah Semester (AUTS) dan Angka Ujian Akhir Semester (AUAS) | 30% - 50%                                                 |
+| Seminar/ Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi.                   |
+| Skripsi                | Penyusunan dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi.                   |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
@@ -1765,7 +1765,7 @@ LAMPIRAN 3
 | Periode                                | LIX                  | LX                   | LXI                 |
 |----------------------------------------|----------------------|----------------------|---------------------|
 | Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015  | Jumat, 12 Jun. 2015 |
-| Sidang Sarjana                         | Jum?at, 3 Okt. 2014  | Jum?at, 23 Jan. 2015 | Jumat, 19 Jun. 2015 |
+| Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015  | Jumat, 19 Jun. 2015 |
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015   | Kamis, 25 Jun. 2015 |
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015  | Sabtu, 8 Agt. 2015  |
 
