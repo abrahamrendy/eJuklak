@@ -360,7 +360,7 @@ Secara umum matakuliah yang diselenggarakan oleh program studi dapat
 dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan
 **matakuliah pilihan**. Matakuliah wajib merupakan matakuliah yang
 sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari
-matakuliah wajib tersebut termasuk kedalam kelompok**matakuliah umum**
+matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum**
 (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian
 yang diselenggarakan oleh Lembaga Pengembangan Humaniora.
 
@@ -1644,15 +1644,12 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
-| BENTUK                 | KOMPONEN                                | KOMPONEN EVALUASI                       |                                         |
-|------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| KEGIATAN               | KEGIATAN                                | ANGKA                                   | %                                       |
-| Perkuliahan            | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20% - 40%                               |
-|                        | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30% - 50%                               |
-|                        |                                         | Angka Ujian Akhir Semester (AUAS)       | 30% - 50%                               |
-| Seminar/ Studi Mandiri | Penyajian, Diskusi/                     | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
-|                        | Partisipasi,Penyusunan Makalah /Laporan |                                         |                                         |
-| Skripsi                | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| BENTUK KEGIATAN        | KOMPONEN KEGIATAN                                           | KOMPONEN EVALUASI (ANGKA)                                                | KOMPONEN EVALUASI (%)                   |
+|------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------|
+| Perkuliahan            | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)                                              | 20% - 40%                               |
+| Perkuliahan            | Tatap Muka                                                  | Angka Ujian Tengah Semester (AUTS) dan Angka Ujian Akhir Semester (AUAS) | 30% - 50%                               |
+| Seminar/ Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi. |
+| Skripsi                | Penyusunan dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi. |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
