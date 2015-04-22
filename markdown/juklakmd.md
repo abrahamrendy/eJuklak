@@ -1049,10 +1049,9 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 
 Keterangan:
 
-[1]. Mata kuliah pilihan wajib. Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
+[1] Mata kuliah pilihan wajib. Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
 
-[2]. Mata kuliah projek.
-    Mahasiswa harus lulus salah satu dari: Projek Informatika, atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+[2] Mata kuliah projek. Mahasiswa harus lulus salah satu dari: Projek Informatika, atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
 Aturan tambahan:
 
@@ -1223,7 +1222,7 @@ berikut:
 | 2,50 - 2,99  | Maksimum 21 SKS                     |
 | = 2,49       | Maksimum 18 SKS                     |
 
-Dengan penjelasan**Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian:
+Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian:
 
    -   1 jam kuliah
    -   1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
