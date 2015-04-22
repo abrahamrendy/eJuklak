@@ -1087,7 +1087,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF354 | Teori Bahasa & Kompilasi                                         |     | 2   |
 | AIF356 | Analisis Proses Bisnis                                           |     | 2   |
 | AIF358 | Jaringan Komputer Lanjut                                         |     | 3   |
-| AIF360 | Pemrograman Berbasis Web Labhyt                                  |     | 3   |
+| AIF360 | Pemrograman Berbasis Web Lanjut                                  |     | 3   |
 | AIF362 | Sistem & Aplikasi Telematika                                     |     | 3   |
 | AIF431 | Topik Khusus Informatika 3                                       |     | 3   |
 | AIF432 | Topik Khusus Informatika 4                                       |     | 2   |
