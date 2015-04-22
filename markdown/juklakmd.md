@@ -360,7 +360,7 @@ Secara umum matakuliah yang diselenggarakan oleh program studi dapat
 dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan
 **matakuliah pilihan**. Matakuliah wajib merupakan matakuliah yang
 sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari
-matakuliah wajib tersebut termasuk kedalam kelompok**matakuliah umum**
+matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum**
 (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian
 yang diselenggarakan oleh Lembaga Pengembangan Humaniora.
 
@@ -506,6 +506,7 @@ masing-masing prodi.
 |MKU010	|**BAHASA INGGRIS (ENGLISH)**  Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris *(vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.	    |
 |MKU011	|**ESTETIK (ESTHETICS)**  Mata kuliah estetika memberi pemahaman konseptual filosofis ?seni? dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.		    |
 |MKU012 |**LOGIKA (LOGICS)**  Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan *(fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik. 		    |
+
 Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 ### 2.5 Kurikulum Program Studi Matematika
@@ -589,7 +590,6 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 |------|----------------------------|-----|---|
 |AMS499|Skripsi		    	    |     |6  |
 |ABCXYZ|Pilihan		            |     |9  |
-                       
 
 #### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
 
@@ -1245,7 +1245,7 @@ Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa
 harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form
 Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan
 menggunakan portal mahasiswa (masuk ke url
-[StudentPortal](https://Studentportal.unpar.ac.id/)), login
+[Student Portal](https://studentportal.unpar.ac.id/)), login
 menggunakan *username* dari *account* student masing-masing. Pengisian
 FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan
 dosen wali pada saat perwalian (tergantung aturan dari masing-masing
@@ -1326,7 +1326,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri
     maupun kelompok.
 
-3.  **Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan
+3.  **Kegiatan akademik mandiri (± 1 jam / sks)**, merupakan kegiatan
     yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat
     lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan
     dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas
@@ -1463,7 +1463,7 @@ E.  **Pelaksanaan**
 ####3.3.3 Sanksi
 
 Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi
-sanksi berupa:
+sanksi berupa :
 
 1.  Untuk kali pertama: peringatan dari pengawas ujian, yang wajib
     dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa
@@ -1582,7 +1582,7 @@ evaluasi tahap studi. Mahasiwa yang melakukan gencat studi selama **2
 berturut-turut** tidak diijinkan melanjutkan studi di lingkungan UNPAR.
 
 Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat
-studi** adalah sebagai berikut:
+studi** adalah sebagai berikut :
 
 1.  Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih
     dahulu kepada Dekan FTIS, dilengkapi dengan
@@ -1644,15 +1644,12 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
-| BENTUK                 | KOMPONEN                                | KOMPONEN EVALUASI                       |                                         |
-|------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| KEGIATAN               | KEGIATAN                                | ANGKA                                   | %                                       |
-| Perkuliahan            | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20% - 40%                               |
-|                        | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30% - 50%                               |
-|                        |                                         | Angka Ujian Akhir Semester (AUAS)       | 30% - 50%                               |
-| Seminar/ Studi Mandiri | Penyajian, Diskusi/                     | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
-|                        | Partisipasi,Penyusunan Makalah /Laporan |                                         |                                         |
-| Skripsi                | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| BENTUK KEGIATAN        | KOMPONEN KEGIATAN                                           | KOMPONEN EVALUASI (ANGKA)                                                | KOMPONEN EVALUASI (%)                                     |
+|------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|
+| Perkuliahan            | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)                                              | 20% - 40%                                                 |
+| Perkuliahan            | Tatap Muka                                                  | Angka Ujian Tengah Semester (AUTS) dan Angka Ujian Akhir Semester (AUAS) | 30% - 50%                                                 |
+| Seminar/ Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi.                   |
+| Skripsi                | Penyusunan dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi.                   |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
@@ -1768,7 +1765,7 @@ LAMPIRAN 3
 | Periode                                | LIX                  | LX                   | LXI                 |
 |----------------------------------------|----------------------|----------------------|---------------------|
 | Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015  | Jumat, 12 Jun. 2015 |
-| Sidang Sarjana                         | Jum?at, 3 Okt. 2014  | Jum?at, 23 Jan. 2015 | Jumat, 19 Jun. 2015 |
+| Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015  | Jumat, 19 Jun. 2015 |
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015   | Kamis, 25 Jun. 2015 |
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015  | Sabtu, 8 Agt. 2015  |
 
