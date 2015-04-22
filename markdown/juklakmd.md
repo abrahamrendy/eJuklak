@@ -1049,10 +1049,10 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 
 Keterangan:
 
-[1].  Mata kuliah pilihan wajib.	
+[1]  Mata kuliah pilihan wajib.	
     Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
 
-[2].  Mata kuliah projek.
+[2]  Mata kuliah projek.
     Mahasiswa harus lulus salah satu dari:
 	- Projek Informatika, atau 
 	- Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
