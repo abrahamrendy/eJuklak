@@ -3,15 +3,14 @@ package com.example.ejuklak2;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedList;
 import java.util.List;
 
-import android.app.Activity;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Environment;
+import android.support.v4.view.GravityCompat;
+import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.SearchView;
@@ -26,9 +25,6 @@ import android.widget.EditText;
 import android.widget.ExpandableListView;
 import android.widget.ExpandableListView.OnChildClickListener;
 import android.widget.ExpandableListView.OnGroupClickListener;
-import android.widget.ExpandableListView.OnGroupCollapseListener;
-import android.widget.ExpandableListView.OnGroupExpandListener;
-import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -40,46 +36,42 @@ public class MainActivity extends ActionBarActivity {
     HashMap<String, List<String>> listDataChild;
     TextView title;
     WebView webView;
+    WebSettings settings;
     IndexParsingTool indexParsingTool;
     String htmlLocation;
+    DrawerLayout drawerLayout;
+    ActionBar actionBar;
     int IDNOW;
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
- 
-        //set title
-        //title = (TextView)findViewById(R.id.title);
-        
+        drawerLayout = (DrawerLayout)findViewById(R.id.drawer_layout);
         try {
 			indexParsingTool = new IndexParsingTool(this, "juklakhtml.html");
 		} catch (IOException e) {
-			Toast.makeText(getApplicationContext(), e.toString(), Toast.LENGTH_SHORT).show();
 			e.printStackTrace();
 		}
         
         //set web view
         htmlLocation = "file:///android_asset/juklakhtml.html";
         LinearLayout parentLayout = (LinearLayout)findViewById(R.id.parent_layout);
-        TextView tv = new TextView(this);
-        tv.setTextSize(25.0f);
-        tv.setText("Hello World!");
-        parentLayout.addView(new TextView(this));
         webView = new WebView(this);
         parentLayout.addView(webView);
-        
-        //webView = (WebView) findViewById(R.id.web_view);
-        webView.setHorizontalScrollBarEnabled(false);
-        webView.setVerticalScrollBarEnabled(true);
         webView.loadUrl(htmlLocation);
-        //webView.requestFocusFromTouch();z
+        settings = webView.getSettings();
+        settings.setBuiltInZoomControls(true);
+        settings.setSupportZoom(true);
+        settings.setUseWideViewPort(true);
+        settings.setJavaScriptEnabled(true);
+        settings.setJavaScriptCanOpenWindowsAutomatically(true);
+        settings.setDisplayZoomControls(false);
         
         //set action bar
-        ActionBar actionBar = getSupportActionBar();
-        actionBar.setLogo(R.drawable.ic_launcher);
-        actionBar.setDisplayUseLogoEnabled(true);
-        actionBar.setDisplayShowHomeEnabled(true);
+        actionBar = getSupportActionBar();
+        actionBar.setHomeAsUpIndicator(R.drawable.ic_launcher);
+        actionBar.setDisplayHomeAsUpEnabled(true);
         
         //handling intent for searching purpose
         handleIntent(getIntent());
@@ -88,70 +80,72 @@ public class MainActivity extends ActionBarActivity {
     }
     
     public void createMainDrawer() {
+    	IDNOW = 0;
         this.setTitle(R.string.app_name);
         expListView = (ExpandableListView) findViewById(R.id.left_drawer);
+    	expListView.setGroupIndicator(null);
         prepareMainListData();
         listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
+    	listAdapter.setIdNow(IDNOW);
         expListView.setAdapter(listAdapter);
         
         // Listview Group click listener
         expListView.setOnGroupClickListener(new OnGroupClickListener() {
             @Override
             public boolean onGroupClick(ExpandableListView parent, View v, int groupPosition, long id) {
-            	//set ActionBar title
                 setTitle(listDataHeader.get((int)id));
-            	createExpandableDrawer((int)id);
+            	if(indexParsingTool.getHead().get((int)id).child.size() != 0) {
+            		createExpandableDrawer((int)id);
+            	} else {
+	        		drawerLayout.closeDrawers();
+            	}
                 webView.loadUrl(htmlLocation + "#" + indexParsingTool.getHead().get((int)id).getId());
             	return true;
             }
         });
     }
-    
+     
     private void createExpandableDrawer(int id) {
     	IDNOW = id;
     	expListView = (ExpandableListView) findViewById(R.id.left_drawer);
+    	expListView.setGroupIndicator(null);
     	prepareListData(id);
     	listAdapter = new ExpandableListAdapter(this, listDataHeader, listDataChild);
+    	listAdapter.setIdNow(IDNOW);
     	expListView.setAdapter(listAdapter);
     	
         // Listview Group click listener
         expListView.setOnGroupClickListener(new OnGroupClickListener() {
- 
             @Override
-            public boolean onGroupClick(ExpandableListView parent, View v,
-                    int groupPosition, long id) {
-                setTitle(listDataHeader.get((int)id));
-                String textId = indexParsingTool.getBab(IDNOW).child.get((int)id).getId();
-            	webView.loadUrl(htmlLocation + "#" + textId);
+            public boolean onGroupClick(ExpandableListView parent, View v, int groupPosition, long id) {
+            	if(id==0) {
+            		try {
+            			return true;
+            		} finally {
+            			createMainDrawer();
+            		}
+            	} else {
+	                setTitle(listDataHeader.get((int)id));
+	                String textId = indexParsingTool.getBab(IDNOW).child.get((int)id-1).getId();
+	            	webView.loadUrl(htmlLocation + "#" + textId);
+	            	if(indexParsingTool.getBab(IDNOW).child.get((int)id-1).child.size()==0) {
+	        			drawerLayout.closeDrawers();
+	        		}
+            	}
                 return false;
             }
         });
  
-        // Listview Group expanded listener
-        expListView.setOnGroupExpandListener(new OnGroupExpandListener() {
- 
-            @Override
-            public void onGroupExpand(int groupPosition) {
-            }
-        });
- 
-        // Listview Group collasped listener
-        expListView.setOnGroupCollapseListener(new OnGroupCollapseListener() {
- 
-            @Override
-            public void onGroupCollapse(int groupPosition) {
-            }
-        });
- 
-        // Listview on child click listener
+        // Listview Child click listener
         expListView.setOnChildClickListener(new OnChildClickListener() {
- 
             @Override
             public boolean onChildClick(ExpandableListView parent, View v, int groupPosition, int childPosition, long id) {
+            	groupPosition--;
                 String textId = indexParsingTool.getBab(IDNOW).child.get(groupPosition).child.get((int)id).getId();
             	String textText = indexParsingTool.getBab(IDNOW).child.get(groupPosition).child.get((int)id).getText();
                 setTitle(textText);
             	webView.loadUrl(htmlLocation + "#" + textId);
+        		drawerLayout.closeDrawers();
             	return false;
             }
         });
@@ -159,32 +153,45 @@ public class MainActivity extends ActionBarActivity {
     
     @Override
     public void onBackPressed() {
-        this.createMainDrawer();
+    	if(this.drawerLayout.isDrawerOpen(GravityCompat.START)) {
+	    	if(IDNOW != 0)this.createMainDrawer();
+	    	else this.drawerLayout.closeDrawers();
+    	}
     }
     
     private void prepareMainListData() {
     	listDataHeader = new ArrayList<String>();
 		listDataChild = new HashMap<String, List<String>>();
-		// Adding parent data
-		for(int i=0; i<indexParsingTool.getHead().size(); i++) {
-			listDataHeader.add(indexParsingTool.getHead().get(i).getText());
+		List<String> child = new ArrayList<String>();
+		String text;
+		int i;
+		for(i=0; i<indexParsingTool.getHead().size(); i++) {
+			text = indexParsingTool.getHead().get(i).getText();
+			listDataHeader.add(text);
+			child = new ArrayList<String>();
+			if(indexParsingTool.getHead().get(i).child.size()!=0) {
+				listDataChild.put(listDataHeader.get(i), child);
+			}
 		}
     }
     
     private void prepareListData(int id) {
 		listDataHeader = new ArrayList<String>();
 		listDataChild = new HashMap<String, List<String>>();
+		List<String> child = new ArrayList<String>();
 		String text;
 		int i, j;
+		listDataHeader.add("Back");
+		listDataChild.put("Back", child);
 		for(i=0; i<indexParsingTool.getBab(id).child.size(); i++) {
 			text = indexParsingTool.getBab(id).child.get(i).getText();
 			listDataHeader.add(text);
-			List<String> child = new ArrayList<String>();
+			child = new ArrayList<String>();
 			for(j=0; j<indexParsingTool.getBab(id).child.get(i).child.size(); j++) {
 				text = indexParsingTool.getBab(id).child.get(i).child.get(j).getText();
 				child.add(text);
 			}
-			listDataChild.put(listDataHeader.get(i), child);
+			listDataChild.put(listDataHeader.get(i+1), child);
 		}
 	}
     
@@ -212,6 +219,13 @@ public class MainActivity extends ActionBarActivity {
         switch (item.getItemId()) {
 	        case SEARCH_MENU_ID: {
 	        	return true;
+	        }
+	        case android.R.id.home: { 
+	        	if(drawerLayout.isDrawerOpen(expListView)) {
+	        		drawerLayout.closeDrawers();
+	        	} else {
+	        		drawerLayout.openDrawer(expListView);
+	        	}
 	        }
 	        default: return super.onOptionsItemSelected(item);
         }
