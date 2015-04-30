@@ -28,7 +28,7 @@ Tim Penyusun
 
 Copyright (c) 2014 FTIS UNPAR
 
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
+Kata Pengantar Dekan FTIS UNPAR
 -------------------------------------------------------------------------------------------
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
