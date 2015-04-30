@@ -223,7 +223,7 @@ Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan ten
 
 #### 1.2.4 SASARAN FTIS
 
-Sasaran FTIS adalah sebagai berikut :
+Sasaran FTIS adalah sebagai berikut:
 
 1. Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
 2. Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
@@ -360,7 +360,7 @@ Secara umum matakuliah yang diselenggarakan oleh program studi dapat
 dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan
 **matakuliah pilihan**. Matakuliah wajib merupakan matakuliah yang
 sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari
-matakuliah wajib tersebut termasuk kedalam kelompok**matakuliah umum**
+matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum**
 (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian
 yang diselenggarakan oleh Lembaga Pengembangan Humaniora.
 
@@ -497,24 +497,16 @@ masing-masing prodi.
 
 |Nama MK| Nama dan Deskripsi Mata Kuliah           |
 |-------|---------------------------|
-|MKU001	| **PENDIDIKAN PANCASILA (PANCASILA EDUCATION)**       |
-|       |Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian *(character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.|
-|MKU002	|**PENDIDIKAN KEWARGANEGARAAN (CIVICS)** |
-|       |Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.|
-|MKU003	|**AGAMA KATOLIK (CATHOLIC RELIGION)** 		    |
-|       |Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.|
-|MKU004	|**FENOMENOLOGI AGAMA (PHENOMENOLOGY OF RELIGION)**	    |
-|       |Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.|
-|MKU008	|**ETIKA (ETHICS)**		            |
-|       |Mendalami perilaku sehari-hari yang baik dalam bermasyarakat. |
-|MKU009	|**BAHASA INDONESIA (INDONESIAN)**	    |
-|       |Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.|
-|MKU010	|**BAHASA INGGRIS (ENGLISH)**	    |
-|       |Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris *(vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.|
-|MKU011	|**ESTETIK (ESTHETICS)**		    |
-|       |Mata kuliah estetika memberi pemahaman konseptual filosofis ?seni? dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.|
-|MKU012 |**LOGIKA (LOGICS)** 		    |
-|       |Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan *(fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.|
+|MKU001	| **PENDIDIKAN PANCASILA (PANCASILA EDUCATION)**  Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian *(character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.     |
+|MKU002	|**PENDIDIKAN KEWARGANEGARAAN (CIVICS)**  Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.|
+|MKU003	|**AGAMA KATOLIK (CATHOLIC RELIGION)** 	Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.	    |
+|MKU004	|**FENOMENOLOGI AGAMA (PHENOMENOLOGY OF RELIGION)**  Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.	    |
+|MKU008	|**ETIKA (ETHICS)**  Mendalami perilaku sehari-hari yang baik dalam bermasyarakat. 		          |
+|MKU009	|**BAHASA INDONESIA (INDONESIAN)**  Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam mata kuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.	    |
+|MKU010	|**BAHASA INGGRIS (ENGLISH)**  Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris *(vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.	    |
+|MKU011	|**ESTETIK (ESTHETICS)**  Mata kuliah estetika memberi pemahaman konseptual filosofis ?seni? dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.		    |
+|MKU012 |**LOGIKA (LOGICS)**  Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan *(fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik. 		    |
+
 Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 ### 2.5 Kurikulum Program Studi Matematika
@@ -598,7 +590,6 @@ Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 |------|----------------------------|-----|---|
 |AMS499|Skripsi		    	    |     |6  |
 |ABCXYZ|Pilihan		            |     |9  |
-                       
 
 #### 2.5.2 Mata kuliah Pilihan Program Studi Matematika
 
@@ -947,7 +938,7 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 | APS213  | APS112, APS108         | **GELOMBANG (WAVES)** Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari. Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan, untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan sifat gelombang. Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang serta fenomena-fenomena lain terkait  Interferensi dan Difraksi.                                                                                                                                            |
 | APS215  | APS106, APS108         | **FISIKA THERMAL (THERMAL PHYSICS)** Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika. Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | APS216  | APS215, APS207         | **FISIKA STATISTIK (STATISTICAL PHYSICS)** Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian "most probable distribution" dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ?non reversible? pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ?reversible?.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| APS222  | APS106, APS207, APS213 | **LISTRIK MAGNET (ELECTRICITY AND MAGNETISM)** Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep medan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| APS222  | APS106, APS207, APS213 | **LISTRIK MAGNET (ELECTRICITY AND MAGNETISM)** Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis: masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep medan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik: masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | APS225  | APS124                 | **LABORATORIUM FISIKA MODERN (MODERN PHYSICS LABORATORIUM)** Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | APS233  | APS108, APS132         | **ELEKTRONIKA 1 (ELECTRONICS 1)** Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | APS234  | APS233, APS207         | **ELEKTRONIKA 2 (ELECTRONICS 2)** Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan  logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -1019,10 +1010,10 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 | AIF301     | Pengantar Sistem Cerdas      |     | 3   |
 | AIF303     | Pengantar Sistem Informasi   |     | 3   |
 | AIF305     | Jaringan Komputer            |     | 2   |
-| AIF311     | Pemrograman Fungsional (1)   | R   | 2   |
-| AIF313     | Grafika Komputer (1)         | R   | 2   |
-| AIF315     | Pemrograman Berbasis Web (1) | R   | 2   |
-| AIF317     | Desain Antarmuka Grafis (1)  | R   | 2   |
+| AIF311     | Pemrograman Fungsional [1]   | R   | 2   |
+| AIF313     | Grafika Komputer [1]         | R   | 2   |
+| AIF315     | Pemrograman Berbasis Web [1] | R   | 2   |
+| AIF317     | Desain Antarmuka Grafis [1]  | R   | 2   |
 | AIFXXX     | MK Pilihan                   |     | 2   |
 | MKU002     | Kewarganegaraan              |     | 2   |
 
@@ -1031,12 +1022,12 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 | KODE       | NAMA                              | APR | SKS |
 |------------|-----------------------------------|-----|-----|
 | AIF302     | Penulisan Ilmiah                  |     | 2   |
-| AIF304     | Proyek Sistem Informasi 1 (2)     |     | 3   |
-| AIF306     | Proyek Informatika (2)            |     | 6   |
-| AIF312     | Keamanan Informasi (1)            | R   | 2   |
-| AIF314     | Pemrograman Basisdata (1)         | R   | 2   |
-| AIF316     | Komputasi Paralel (1)             | R   | 2   |
-| AIF318     | Pemrograman Aplikasi Bergerak (1) | R   | 2   |
+| AIF304     | Proyek Sistem Informasi 1 [2]     |     | 3   |
+| AIF306     | Proyek Informatika [2]            |     | 6   |
+| AIF312     | Keamanan Informasi [1]            | R   | 2   |
+| AIF314     | Pemrograman Basisdata [1]         | R   | 2   |
+| AIF316     | Komputasi Paralel [1]             | R   | 2   |
+| AIF318     | Pemrograman Aplikasi Bergerak [1] | R   | 2   |
 | AIFXXX     | MK Pilihan                        |     | 6   |
 
 **Semester 7**
@@ -1045,7 +1036,7 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 |------------|-------------------------------|-----|-----|
 | AIF401     | Skripsi 1                     |     | 4   |
 | AIF403     | Komputer dan Masyarakat       |     | 3   |
-| AIF405     | Proyek Sistem Informasi 2 (2) |     | 2   |
+| AIF405     | Proyek Sistem Informasi 2 [2] |     | 2   |
 | AIFXXX     | MK Pilihan                    |     | 12  |
 
 **Semester 8**
@@ -1056,17 +1047,13 @@ Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari selur
 | AIFXXX     | MK Pilihan    |     | 10  |
 | APS402     | Etika Profesi |     | 2   |
 
-Keterangan :
+Keterangan:
 
-1.  Mata kuliah pilihan wajib.	
-    Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
+[1] Mata kuliah pilihan wajib. Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut
 
-2.  Mata kuliah projek.
-    Mahasiswa harus lulus salah satu dari:
-	- Projek Informatika, atau 
-	- Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
+[2] Mata kuliah projek. Mahasiswa harus lulus salah satu dari: Projek Informatika, atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2 
 
-Aturan tambahan :
+Aturan tambahan:
 
 1.    Mata kuliah pilihan dari luar jurusan 	
 Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
@@ -1100,7 +1087,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 | AIF354 | Teori Bahasa & Kompilasi                                         |     | 2   |
 | AIF356 | Analisis Proses Bisnis                                           |     | 2   |
 | AIF358 | Jaringan Komputer Lanjut                                         |     | 3   |
-| AIF360 | Pemrograman Berbasis Web Labhyt                                  |     | 3   |
+| AIF360 | Pemrograman Berbasis Web Lanjut                                  |     | 3   |
 | AIF362 | Sistem & Aplikasi Telematika                                     |     | 3   |
 | AIF431 | Topik Khusus Informatika 3                                       |     | 3   |
 | AIF432 | Topik Khusus Informatika 4                                       |     | 2   |
@@ -1227,7 +1214,7 @@ berikut:
    -  Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
    -  Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat *tempuh* atau pun prasyarat *lulus*) bagi matakuliah lain.
    -  Memperhatikan **jadwal kuliah dan ujian** yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-   -  Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+   -  Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut:
 
 |  IPS         |  Hak Tempuh pada Semester Berikutnya|
 |--------------|-------------------------------------|
@@ -1235,7 +1222,7 @@ berikut:
 | 2,50 - 2,99  | Maksimum 21 SKS                     |
 | = 2,49       | Maksimum 18 SKS                     |
 
-Dengan penjelasan**Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :
+Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian:
 
    -   1 jam kuliah
    -   1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
@@ -1254,7 +1241,7 @@ Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa
 harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form
 Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan
 menggunakan portal mahasiswa (masuk ke url
-[StudentPortal](https://Studentportal.unpar.ac.id/)), login
+[Student Portal](https://studentportal.unpar.ac.id/)), login
 menggunakan *username* dari *account* student masing-masing. Pengisian
 FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan
 dosen wali pada saat perwalian (tergantung aturan dari masing-masing
@@ -1311,10 +1298,10 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis
 oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu
 dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
 
-Perincian kegiatan perkuliahan adalah sebagai berikut :
+Perincian kegiatan perkuliahan adalah sebagai berikut:
 
 1.  **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang
-    sebaiknya dimanfaatkan secara maksimal dengan :
+    sebaiknya dimanfaatkan secara maksimal dengan:
 
     -   membaca bahan yang diperkirakan akan dibahas dosen,
     -   menanyakan **segala** hal yang belum jelas kepada dosen,
@@ -1335,7 +1322,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
     menguasai bahan kuliah dengan baik, yang dapat dilakukan sendiri
     maupun kelompok.
 
-3.  **Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan
+3.  **Kegiatan akademik mandiri (± 1 jam / sks)**, merupakan kegiatan
     yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat
     lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan
     dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas
@@ -1347,7 +1334,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut :
 ###3.3 Tata Cara Ujian
 
 Yang dimaksud dengan *ujian* adalah kegiatan evaluasi keberhasilan
-belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :
+belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas:
 
 1.  Ujian Tengah Semester (UTS)
 2.  Ujian Akhir Semester (UAS)
@@ -1377,7 +1364,7 @@ Syarat untuk mengikuti UTS dan UAS:
 
 ####3.3.2 Tata Tertib Ujian
 
-A.  **Kehadiran**
+**Kehadiran**
 
 1.  Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya
     **15 menit sebelum** ujian dimulai.
@@ -1386,7 +1373,7 @@ A.  **Kehadiran**
 3.  Ketidakhadiran peserta ujian pada saat ujian berakibat komponen
     ujian terkait **bernilai 0 (nol)**.
 
-B.  **Perlengkapan**
+**Perlengkapan**
 
 1.  Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang
     sah, dan diletakkan di atas meja ujian masing-masing selama ujian.
@@ -1406,12 +1393,12 @@ B.  **Perlengkapan**
     pengawas ujian.
 7.  Peserta ujian dilarang merokok di ruang ujian.
 
-C.  **Pakaian**
+**Pakaian**
 
 1.  Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
 2.  Peserta ujian **wajib** memakai sepatu.
 
-D.  **Tempat duduk**
+**Tempat duduk**
 
 1.  Peserta ujian harus menempati **ruang ujian** dan **tempat duduk
     sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan
@@ -1419,7 +1406,7 @@ D.  **Tempat duduk**
 2.  Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas
     ujian.
 
-E.  **Pelaksanaan**
+**Pelaksanaan**
 
 1.  Peserta ujian dilarang membuka dan membaca soal ujian sebelum
     diperbolehkan oleh pengawas ujian.
@@ -1494,7 +1481,7 @@ sanksi berupa:
 Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada
-saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
+saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut:
 
 1.  Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan
     menjadi **E** (tidak lulus).
@@ -1619,7 +1606,7 @@ studi** adalah sebagai berikut:
 ###3.5 Pengunduran Diri Sebagai Mahasiswa
 
 Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah
-sebagai berikut :
+sebagai berikut:
 
 1.  Mahasiswa yang bersangkutan menulis surat pernyataan pengunduran
     diri yang ditujukan kepada Dekan FTIS, ditandatangani oleh mahasiswa
@@ -1631,7 +1618,7 @@ sebagai berikut :
     pengunduran diri diteruskan ke Biro Administrasi Akademik dan
     Kemahasiswaan (BAA).
 4.  Setelah permohonan diri mahasiswa disetujui di tingkat Universitas,
-    mahasiswa yang bersangkutan akan menerima :
+    mahasiswa yang bersangkutan akan menerima:
 
     -   SK Rektor UNPAR tentang pengunduran diri mahasiswa yang
     bersangkutan.
@@ -1641,7 +1628,7 @@ sebagai berikut :
 Bab 4: Evaluasi Keberhasilan Belajar
 ---------------------------------------------
 
-Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
+Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada:
 
 1. Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
 2. Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
@@ -1651,17 +1638,14 @@ Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belaja
 
 Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas.
 
-Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut:
 
-| BENTUK                 | KOMPONEN                                | KOMPONEN EVALUASI                       |                                         |
-|------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| KEGIATAN               | KEGIATAN                                | ANGKA                                   | %                                       |
-| Perkuliahan            | Pelaksanaan Tugas                       | Angka Rata-rata Tugas (ART)             | 20% - 40%                               |
-|                        | Tatap Muka                              | Angka Ujian Tengah Semester (AUTS)      | 30% - 50%                               |
-|                        |                                         | Angka Ujian Akhir Semester (AUAS)       | 30% - 50%                               |
-| Seminar/ Studi Mandiri | Penyajian, Diskusi/                     | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
-|                        | Partisipasi,Penyusunan Makalah /Laporan |                                         |                                         |
-| Skripsi                | Penyusunan dan Penyajian                | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| BENTUK KEGIATAN        | KOMPONEN KEGIATAN                                           | KOMPONEN EVALUASI (ANGKA)                                                | KOMPONEN EVALUASI (%)                                     |
+|------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|
+| Perkuliahan            | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)                                              | 20% - 40%                                                 |
+| Perkuliahan            | Tatap Muka                                                  | Angka Ujian Tengah Semester (AUTS) dan Angka Ujian Akhir Semester (AUAS) | 30% - 50%                                                 |
+| Seminar/ Studi Mandiri | Penyajian, Diskusi/Partisipasi, Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi.                   |
+| Skripsi                | Penyusunan dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi.                                  | Diserahkan ke tiap fakultas atau prodi.                   |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
@@ -1671,7 +1655,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 
 **Komponen Evaluasi** dinyatakan dalam bentuk angka dengan rentang **0 - 100** dengan pembulatan angka pecahan hingga **satuan terdekat**, dengan ketentuan bilangan pecahan = 0,5 dibulatkan menjadi 1 dan bilangan pecahan < 0,5 dibulatkan menjadi 0.
 
-Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :
+Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut:
 
 |   AA   |  NA	|Bobot NA|
 |--------|------|--------|
@@ -1719,7 +1703,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kum
  
  ![image of IPK](images/ipk.png)
 
-dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
+dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:
 
 1. Telah lulus **seluruh beban SKS** yang dipersyaratkan dalam kurikulum prodi terkait.
 2. IPK = 2,00.
@@ -1777,7 +1761,7 @@ LAMPIRAN 3
 | Periode                                | LIX                  | LX                   | LXI                 |
 |----------------------------------------|----------------------|----------------------|---------------------|
 | Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015  | Jumat, 12 Jun. 2015 |
-| Sidang Sarjana                         | Jum?at, 3 Okt. 2014  | Jum?at, 23 Jan. 2015 | Jumat, 19 Jun. 2015 |
+| Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015  | Jumat, 19 Jun. 2015 |
 | Batas akhir pendaftaran wisuda         | Senin, 6 Okt. 2014   | Senin, 2 Feb. 2015   | Kamis, 25 Jun. 2015 |
 | Wisuda                                 | Sabtu, 1 Nov. 2014   | Sabtu, 28 Feb. 2015  | Sabtu, 8 Agt. 2015  |
 
