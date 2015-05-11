@@ -44,3 +44,7 @@ blockquote {
 body {
 	font-family: "Arial", Times, Sans-serif;
 }
+
+img {
+	width: auto;
+}
