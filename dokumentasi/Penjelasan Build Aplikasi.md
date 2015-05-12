@@ -10,7 +10,7 @@ Langkah-langkah mengkonversi *file* Markdown ke HTML:
 1. Pertama masuk terlebih dahulu ke dalam direktori tempat *file* Markdown yang akan dikonversi disimpan.
 2. Akses *file* **header.html** yang tersedia di repositori res kemudian simpan *file* **header.html** ke direktori tempat *file* Markdown tersimpan.
 
-  ![Isi header.html](../res/Build/isi header.png "Isi header.html")
+  ![Isi header.html](../res/Build/isi header.PNG "Isi header.html")
 3. Langkah selanjutnya adalah melakukan konversi terhadap *file* Markdown tersebut. Perintah yang digunakan adalah sebagai berikut.  
 
    ```
