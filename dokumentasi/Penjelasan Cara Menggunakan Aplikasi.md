@@ -6,15 +6,15 @@ Berikut adalah petunjuk penjelasan cara menggunakan aplikasi eJuklak.
 2. Setelah selesai, jalankan aplikasi dengan cara menekan logo aplikasi.  
   ![Logo aplikasi](../res/Screenshot Aplikasi/Icon.png "Logo aplikasi")
 3. Setelah program dijalankan, akan muncul tampilan awal aplikasi.
-  ![Tampilan awal](../res/Screenshot Aplikasi/Tampilan Awal.png "Tampilan awal")
-4. Selain melakukan *scroll* konten juklak secara langsung, aplikasi ini menyediakan fitur menu daftar isi, yang bisa anda akses dengan menekan *icon* menu daftar Isi di sudut kiri atas aplikasi, Anda dapat mengakses konten juklak sesuai dengan bab yang Anda inginkan.  
-  ![Menu](../res/Manual/Manual Image 02.png "Menu")
-5. Misalkan Anda ingin membaca isi dari Bab 1 tanpa harus melakukan *scroll* terlebih dahulu dari tampilan awal, maka Anda dapat langsung menekan menu bab 1 pada bagian menu daftar isi.  
-  ![Pilih menu](../res/Manual/Manual Image 03.png "Pilih menu")
-6. Selain daftar bab, pada menu daftar isi juga tersedia daftar subbab. Anda dapat langsung menekan bagian subbab pada daftar isi jika Anda ingin membaca juklak pada bagian subbab tertentu.
-7. Anda dapat melakukan *zoom-in* dan  *zoom-out* pada konten e-Juklak. Jika  gambar atau tulisan tidak terlihat jelas pada ukuran layar normal,  Anda dapat melakukan *zoom-in* sehingga gambar atau tulisan yang dimaksud dapat Anda lihat secara jelas. Semua konten pada e-Juklak dapat Anda *zoom-in* dan *zoom-out*. Sehingga tidak perlu khawatir jika konten e-Juklak tidak dapat dengan jelas dibaca.  
-  - **Gambar Standar**  
-    ![Gambar](../res/Manual/Manual Image 04.png "Gambar")
-  - **Setelah Zoom**  
-    ![Gambar zoom](../res/Manual/Manual Image 05.png "Gambar zoom")
-8. Aplikasi e-Juklak ini dapat mengikuti posisi layar ketika Anda melakukan *rotate handphone* Anda. Sehingga Anda dapat membaca e-Juklak baik dalam posisi *handphone* sedang vertical maupun horizontal. 
+  ![Tampilan awal](../res/Screenshot Aplikasi/Tampilan awal.png "Tampilan awal")
+4. Aplikasi mendukung fitur *scroll* dan fitur *zoom*.
+  ![Scroll](../res/Screenshot Aplikasi/Scroll down.png "Scroll")
+  ![Zoom](../res/Screenshot Aplikasi/Zoom in.png "Zoom")
+5. Aplikasi memiliki fitur *navigation drawer*. Untuk membukanya, letakkan jari (1 saja) di sisi kiri layar dan geser jari ke arah kanan sampai navigation drawer terbuka atau cukup tekan logo aplikasi di pojok kiri atas.  
+  ![Navigation drawer](../res/Screenshot Aplikasi/Buka navigation drawer.png "Navigation drawer")
+6. Untuk berpindah halaman menggunakan *navigation drawer*, tekan bagian yang ingin kita tuju. Penekanan ini akan membuat tampilan berpindah ke bagian tersebut.
+  - Apabila bagian tersebut masih memiliki bagian dalam (tingkat 2), seperti subbab untuk bab, maka *navigation drawer* akan membuka bagian dalam tersebut . Apabila tidak, maka *navigation drawer* akan tertutup. Pembukaan *navigation drawer* selanjutnya akan menampilkan bagian terakhir sebelum *navigation drawer* tersebut tertutup.
+  ![Navigation drawer tingkat 2](../res/Screenshot Aplikasi/Tekan bab 1.png "Navigation drawer tingkat 2")
+  ![Navigation drawer tingkat 3](../res/Screenshot Aplikasi/Tekan bab 1.2.png "Navigation drawer tingkat 3")
+8. Untuk menutup aplikasi, tutup *navigation drawer* lalu, tekan tombol *back* pada *device* sampai muncul “Press back again to leave” pada layar, kemudian tekan *back* sekali lagi sebelum tulisan tersebut hilang. Ini akan menutup aplikasi, dan pembukaan aplikasi selanjutnya akan menampilkan halaman awal aplikasi seperti pada nomor 3.
+  ![Tutup](../res/Screenshot Aplikasi/Tutup aplikasi.png "Menutup aplikasi")
