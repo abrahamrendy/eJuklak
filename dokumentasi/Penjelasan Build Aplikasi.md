@@ -15,10 +15,10 @@ Langkah-langkah mengkonversi *file* Markdown ke HTML:
     pandoc -s -c CSS MARKDOWN -o HTML -H HEADER
    ```
 
-![Contoh perintah](../res/Build/cmd command.png "Contoh perintah")  
-Perintah tersebut akan menerima *file input* berupa Markdown dengan nama **juklakmd.md** dan *file* CSS yang tersimpan di *folder* **style** dengan nama **style.css** dengan tambahan *header* dari **header.html** kemudian menghasilkan *file output* HTML dengan nama **juklakhtml.html**.
+  ![Contoh perintah](../res/Build/cmd command.png "Contoh perintah")  
+  Perintah tersebut akan menerima *file input* berupa Markdown dengan nama **juklakmd.md** dan *file* CSS yang tersimpan di *folder* **style** dengan nama **style.css** dengan tambahan *header* dari **header.html** kemudian menghasilkan *file output* HTML dengan nama **juklakhtml.html**.
 
-![Contoh hasil](../res/Build/potongan hasil html.png "Contoh hasil")
+  ![Contoh hasil](../res/Build/potongan hasil html.png "Contoh hasil")
 
 
 ##Pembuatan Aplikasi
