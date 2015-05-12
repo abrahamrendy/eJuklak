@@ -26,9 +26,9 @@ Tim Penyusun
 * Pranyoto Teguh Imanto
 * Thomas Anung Basuki
 
-Copyright (c) 2014 FTIS UNPAR
+Copyright © 2014 FTIS UNPAR
 
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
+Kata Pengantar Dekan FTIS UNPAR
 -------------------------------------------------------------------------------------------
 
 Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
@@ -1678,7 +1678,7 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 #### 4.2.1 Evaluasi Keberhasilan Belajar Tiap Semester
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 - 4,00** dan dihitung dengan rumus:
 
-![image of IPS](images/ips.png)
+![](images/ips.png)
  
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**. 
 
@@ -1701,7 +1701,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksim
 
 Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam **Indeks Prestasi Kumulatif (IPK)**, dengan rentang **0,00 - 4,00** yang dihitung dengan rumus
  
- ![image of IPK](images/ipk.png)
+ ![](images/ipk.png)
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. Mahasiswa dinyatakan **lulus** dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut:
 
@@ -1758,7 +1758,7 @@ LAMPIRAN 3
 --------------------------------------------
 **Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015**
 
-| Periode                                | LIX                  | LX                   | LXI                 |
+| Kegiatan                               | Periode LIX          | Periode LX           | Periode LXI         |
 |----------------------------------------|----------------------|----------------------|---------------------|
 | Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015  | Jumat, 12 Jun. 2015 |
 | Sidang Sarjana                         | Jumat, 3 Okt. 2014   | Jumat, 23 Jan. 2015  | Jumat, 19 Jun. 2015 |
@@ -1768,44 +1768,44 @@ LAMPIRAN 3
 
 LAMPIRAN 4
 --------------------------------------------
-![image L4.1](images/4_1.png)
+![](images/4_1.png)
 
-![image L4.2](images/4_2.png)
+![](images/4_2.png)
 
-![image L4.3](images/4_3.png)
+![](images/4_3.png)
 
-![image L4.4](images/4_4.png)
+![](images/4_4.png)
 
-![image L4.5](images/4_5.png)
+![](images/4_5.png)
 
-![image L4.6](images/4_6.png)
+![](images/4_6.png)
 
 LAMPIRAN 5
 --------------------------------------------
-![image L5.1](images/5_1.png)
+![](images/5_1.png)
 
-![image L5.2](images/5_2.png)
+![](images/5_2.png)
 
-![image L5.3](images/5_3.png)
+![](images/5_3.png)
 
 
 LAMPIRAN 6
 --------------------------------------------
-![image L6.1](images/6_1.png)
+![](images/6_1.png)
 
-![image L6.2](images/6_2.png)
+![](images/6_2.png)
 
 
 LAMPIRAN 7
 --------------------------------------------
-![image L7.1](images/7_1.png)
+![](images/7_1.png)
 
-![image L7.2](images/7_2.png)
+![](images/7_2.png)
 
-![image L7.3](images/7_3.png)
+![](images/7_3.png)
 
-![image L7.4](images/7_4.png)
+![](images/7_4.png)
 
-![image L7.5](images/7_5.png)
+![](images/7_5.png)
 
-![image L7.6](images/7_6.png)
+![](images/7_6.png)
