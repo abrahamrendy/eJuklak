@@ -2,7 +2,7 @@
 
 ## Use Case Diagram
 
-![](../res/Struktur Program/eJuklakUseCaseDiagram.png)
+![](../res/Struktur Program/eJuklakUseCase.png)
 
 ## Class Diagram
 
