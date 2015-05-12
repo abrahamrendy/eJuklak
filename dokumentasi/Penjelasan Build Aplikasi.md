@@ -3,18 +3,21 @@
 
 ## Konversi HTML
 
-Proses mengkonversi dokumen menjadi HTML dapat dilakukan dengan menggunakan Pandoc. Proses mengkonversi file pada Pandoc menggunakan perintah pada CMD. Untuk dokumentasi lengkap penggunaan Pandoc dapat dilihat melalui website [](http://pandoc.org/).  
+Proses mengkonversi dokumen menjadi HTML dapat dilakukan dengan menggunakan Pandoc. Proses mengkonversi *file* pada Pandoc menggunakan perintah pada CMD. Untuk dokumentasi lengkap penggunaan Pandoc dapat dilihat melalui website [Pandoc](http://pandoc.org/).  
 
-Langkah-langkah mengkonversi file Markdown ke HTML:  
+Langkah-langkah mengkonversi *file* Markdown ke HTML:  
 
-1. Pertama masuk terlebih dahulu ke dalam direktori tempat file Markdown yang akan dikonversi disimpan.
+1. Pertama masuk terlebih dahulu ke dalam direktori tempat *file* Markdown yang akan dikonversi disimpan.
 2. Akses *file* **header.html** yang tersedia di repositori res kemudian simpan *file* **header.html** ke direktori tempat *file* Markdown tersimpan.  
 3. Langkah selanjutnya adalah melakukan konversi terhadap file Markdown tersebut. Perintah yang digunakan adalah sebagai berikut.  
+
    ```
     pandoc -s -c CSS MARKDOWN -o HTML -H HEADER
    ```
+
 ![Contoh perintah](../res/Build/cmd command.png "Contoh perintah")  
 Perintah tersebut akan menerima *file input* berupa Markdown dengan nama **juklakmd.md** dan *file* CSS yang tersimpan di *folder* **style** dengan nama **style.css** dengan tambahan *header* dari **header.html** kemudian menghasilkan *file output* HTML dengan nama **juklakhtml.html**.
+
 ![Contoh hasil](../res/Build/potongan hasil html.png "Contoh hasil")
 
 
