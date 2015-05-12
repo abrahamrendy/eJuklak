@@ -31,7 +31,7 @@ Berikut adalah petunjuk penjelasan cara menggunakan aplikasi eJuklak.
 
 7. *Navigation drawer* dapat ditutup dengan menekan bagian luar *navigation drawer* atau dengan menekan tombol *back* pada *device* (bukan pada layar; untuk posisi navigation drawer di tingkat 1). Tombol *back* pada *device* juga dapat digunakan untuk mengembalikan tampilan navigation drawer ke tingkat 1 apabila navigation drawer berada di tingkat 2 atau lebih.
 
-![Tutup navigation drawer](../res/Screenshot Aplikasi/Tutup navigation drawer.png "Tutup navigation drawer")
+  ![Tutup navigation drawer](../res/Screenshot Aplikasi/Tutup navigation drawer.png "Tutup navigation drawer")
 
 8. Untuk menutup aplikasi, tutup *navigation drawer* lalu, tekan tombol *back* pada *device* sampai muncul “Press back again to leave” pada layar, kemudian tekan *back* sekali lagi sebelum tulisan tersebut hilang. Ini akan menutup aplikasi, dan pembukaan aplikasi selanjutnya akan menampilkan halaman awal aplikasi seperti pada nomor 3.
 
