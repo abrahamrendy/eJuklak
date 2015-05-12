@@ -7,6 +7,7 @@ import java.util.List;
 
 import com.example.ejuklak2.R;
 
+import android.content.res.Configuration;
 import android.os.Bundle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -37,6 +38,8 @@ public class MainActivity extends ActionBarActivity {
     private int IDNOW;
     private long time1, time2;
     
+    private LinearLayout parentLayout;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -50,16 +53,16 @@ public class MainActivity extends ActionBarActivity {
         
         //set web view
         htmlLocation = "file:///android_asset/juklakhtml.html";
-        LinearLayout parentLayout = (LinearLayout)findViewById(R.id.parent_layout);
+        parentLayout = (LinearLayout)findViewById(R.id.parent_layout);
         webView = new WebView(this);
         parentLayout.addView(webView);
         webView.loadUrl(htmlLocation);
         settings = webView.getSettings();
         settings.setBuiltInZoomControls(true);
         settings.setSupportZoom(true);
-        settings.setUseWideViewPort(true);
-        settings.setJavaScriptEnabled(true);
-        settings.setJavaScriptCanOpenWindowsAutomatically(true);
+        //settings.setUseWideViewPort(true);
+        //settings.setJavaScriptEnabled(true);
+        //settings.setJavaScriptCanOpenWindowsAutomatically(true);
         settings.setDisplayZoomControls(false);
         
         //set action bar
@@ -69,6 +72,30 @@ public class MainActivity extends ActionBarActivity {
         this.setTitle(R.string.app_name);
         
         this.createMainDrawer();
+    }
+    
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+    	// TODO Auto-generated method stub
+    	super.onSaveInstanceState(outState);
+    	webView.saveState(outState);
+    }
+    
+    @Override
+    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+    	// TODO Auto-generated method stub
+    	super.onRestoreInstanceState(savedInstanceState);
+    	webView.restoreState(savedInstanceState);
+    }
+    
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+    	// TODO Auto-generated method stub
+    	if(webView!=null){
+    		parentLayout.removeView(webView);
+    	}
+    	super.onConfigurationChanged(newConfig);
+    	parentLayout.addView(webView);
     }
     
     public void createMainDrawer() {
