@@ -11,7 +11,7 @@ Berikut adalah petunjuk penjelasan cara menggunakan aplikasi eJuklak.
 
   ![Tampilan awal](../res/Screenshot Aplikasi/Tampilan awal.png "Tampilan awal")
 
-4. Aplikasi mendukung fitur *scroll* dan fitur *zoom*.
+4. Aplikasi mendukung fitur *scroll* dan fitur *zoom* sehingga Anda dapat melakukan *scroll up* atau *down* serta *zoom in* dan *zoom out*.
 
   ![Scroll](../res/Screenshot Aplikasi/Scroll down.png "Scroll")
 
@@ -29,7 +29,7 @@ Berikut adalah petunjuk penjelasan cara menggunakan aplikasi eJuklak.
 
   ![Navigation drawer tingkat 3](../res/Screenshot Aplikasi/Tekan bab 1.2.png "Navigation drawer tingkat 3")
 
-7. *Navigation drawer* dapat ditutup dengan menekan bagian luar *navigation drawer* atau dengan menekan tombol *back* pada *device* (bukan pada layar; untuk posisi navigation drawer di tingkat 1). Tombol *back* pada *device* juga dapat digunakan untuk mengembalikan tampilan navigation drawer ke tingkat 1 apabila navigation drawer berada di tingkat 2 atau lebih.
+7. *Navigation drawer* dapat ditutup dengan menekan bagian luar *navigation drawer* atau dengan menekan tombol *back* pada *device* (bukan pada layar; untuk posisi *navigation drawer* di tingkat 1). Tombol *back* pada *device* juga dapat digunakan untuk mengembalikan tampilan *navigation drawer* ke tingkat 1 apabila *navigation drawer* berada di tingkat 2 atau lebih.
 
   ![Tutup navigation drawer](../res/Screenshot Aplikasi/Tutup navigation drawer.png "Tutup navigation drawer")
 
