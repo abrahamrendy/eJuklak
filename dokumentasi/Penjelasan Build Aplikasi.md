@@ -24,19 +24,29 @@ Langkah-langkah mengkonversi *file* Markdown ke HTML:
   ![Contoh Hasil](../res/Build/potongan hasil html.png "Contoh Hasil")
 
 
-##Pembuatan Aplikasi
+##Pembentukan Aplikasi
 
 Bagian ini akan menjelaskan cara membuat aplikasi dari source code yang ada di repositori eJuklak. 
 Berikut adalah langkah-langkahnya:
 
 1. Unduh semua *file* yang tersedia di repositori **eJuklak App**.
 2. Buka aplikasi IDE untuk membuat aplikasi Android. Pada cara pembuatan ini digunakan aplikasi **Eclipse LUNA**.
-3. Buka menu File lalu pilih **Import project**. Lakukan *import* dari *file* yang telah didapat di langkah 1.
-4. Klik kanan pada *project* lalu pilih menu **Run As** kemudian pilih **Android Application**.
-5. Setelah *run project* berhasil dilakukan, APK akan terbentuk secara otomatis di folder **bin**.
-5. Pembentukan APK dapat pula dilakukan dengan cara export. Buka menu **File** dan klik menu **Export**.
-6. Pilih *folder* Android lalu klik **Export Android Application**.
-7. Pilih *project* **EJuklak App** dan klik **Next**.
-8. Langkah berikutnya adalah pembuatan *keystore*. Anda dapat membuat *keystore* baru atau memilih *keystore* yang sudah tersedia.
-9. Klik **Finish** dan APK sudah terbentuk.
+3. Buka menu File lalu pilih **Import..**.
+  
+  ![](../res/Build/file import.png)
+4. Akan terbuka jendela baru, pilih **Existing Android Code Into Workspace**. 
+
+  ![](../res/Build/file import2.png)
+5. Pilih direktori tempat Anda menyimpan file hasil langkah 1 dan klik **Next** maka Anda telah berhasil melakukan *import*.
+6. Klik kanan pada *project* lalu pilih menu **Run As** kemudian pilih **Android Application**.
+
+  ![](../res/Build/run as.png)
+7. Setelah *run* *project* berhasil dilakukan, APK akan terbentuk secara otomatis di folder **bin**.
+8. Pembentukan APK dapat pula dilakukan dengan cara export. Buka menu **File** dan klik menu **Export**.
+9. Pilih *folder* Android lalu klik **Export Android Application**.
+
+  ![](../res/Build/export.png)
+10. Pilih *project* **EJuklak App** dan klik **Next**.
+11. Langkah berikutnya adalah pembuatan *keystore*. Anda dapat membuat *keystore* baru atau memilih *keystore* yang sudah tersedia.
+12. Klik **Finish** dan APK sudah terbentuk.
 
