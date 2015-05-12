@@ -8,6 +8,22 @@ and open the template in the editor.
     Author     : Abraham
 */
 
+@font-face {
+    font-family: gill;
+    src: url(GIL_____.TTF);
+}
+
+body {
+    font-family: gill;
+    //background-color: rgb(229,252,194);
+    //background-color: rgb(220,233,190);
+    //color: rgb(89,79,79);
+    //color: rgb(52,56,56);
+    color: rgb(46,38,51);
+    text-align: justify;
+	//font-size: large;
+}
+
 .odd {
     background-color: lightgray
 }
@@ -20,6 +36,11 @@ and open the template in the editor.
     color: whitesmoke;
 }
 
+.caption {
+	text-align: center;
+	font-size: x-small;
+}
+
 th {
     background-color: rgb(79,98,40);
 }
@@ -27,6 +48,10 @@ th {
 table, th, td {
    border: 1px solid black;
    font-size: small;
+}
+
+h1, h2, h3, h4 {
+	text-align: left;
 }
 
 h2 {
@@ -42,13 +67,10 @@ blockquote {
     text-align: center;
 }
 
-body {
-	font-family: "Arial", Times, Sans-serif;
+img {
+    width: 100%;
 }
 
-img {
-	width: 98%;
-}
 table {
-	width: 98%;
+    width: 98%;
 }
