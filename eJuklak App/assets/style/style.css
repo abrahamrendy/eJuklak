@@ -8,6 +8,22 @@ and open the template in the editor.
     Author     : Abraham
 */
 
+@font-face {
+    font-family: gill;
+    src: url(GIL_____.TTF);
+}
+
+body {
+    //font-family: "Arial", Times, Sans-serif;
+    font-family: gill;
+    //background-color: rgb(229,252,194);
+    //background-color: rgb(220,233,190);
+    //color: rgb(89,79,79);
+    //color: rgb(52,56,56);
+    color: rgb(46,38,51);
+    text-align: justify;
+}
+
 .odd {
     background-color: lightgray
 }
@@ -42,13 +58,10 @@ blockquote {
     text-align: center;
 }
 
-body {
-	font-family: "Arial", Times, Sans-serif;
+img {
+    width: 100%;
 }
 
-img {
-	width: 98%;
-}
 table {
-	width: 98%;
+    width: 98%;
 }
