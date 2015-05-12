@@ -46,9 +46,8 @@ Berikut adalah langkah-langkahnya:
 9. Pilih *folder* Android lalu klik **Export Android Application**.
 
   ![](../res/Build/export.png)
-10. Pilih *project* **EJuklak App** dan klik **Next**.
-11. Langkah berikutnya adalah pembuatan *keystore*. Anda dapat membuat *keystore* baru atau memilih *keystore* yang sudah tersedia.
-12. Pilih destinasi tempat APK akan dibentuk kemudian klik **Finish** dan APK sudah terbentuk.
+10. Pilih *project* **EJuklak App** dan klik **Next**. Langkah berikutnya adalah pembuatan *keystore*. Anda dapat membuat *keystore* baru atau memilih *keystore* yang sudah tersedia.
+11. Pilih destinasi tempat APK akan dibentuk kemudian klik **Finish** dan APK sudah terbentuk.
 
   ![](../res/Build/export2.png)
 
