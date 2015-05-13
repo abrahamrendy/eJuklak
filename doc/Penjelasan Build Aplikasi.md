@@ -46,8 +46,12 @@ Berikut adalah langkah-langkahnya:
 9. Pilih *folder* Android lalu klik **Export Android Application**.
 
   ![](../res/Build/export.png)
-10. Pilih *project* **EJuklak App** dan klik **Next**. Langkah berikutnya adalah pembuatan *keystore*. Anda dapat membuat *keystore* baru atau memilih *keystore* yang sudah tersedia.
-11. Pilih destinasi tempat APK akan dibentuk kemudian klik **Finish** dan APK sudah terbentuk.
-
+10. Pilih *project* **EJuklak App** dan klik **Next**. 
+  ![](../res/Build/exportProject.png) 
+11. Langkah berikutnya Anda dapat memilih *keystore* yang sudah dibuat dan masukkan passwordnya. Di dalam folder ejuklakApp sudah terdapat *keystore* dengan nama ejuklak. Password dari keystore ini adalah "tugasejuklak123". Lalu tekan tombol next.
+  ![](../res/Build/passwordKeystore.png)
+12. Piliah alias "keystoreejuklak" dan masukkan password "tugasejuklak123", lalu tekan next.
+  ![](../res/Build/alias key.png)
+13. Pilih destinasi tempat APK akan dibentuk kemudian klik **Finish** dan APK sudah terbentuk.
   ![](../res/Build/export2.png)
 
