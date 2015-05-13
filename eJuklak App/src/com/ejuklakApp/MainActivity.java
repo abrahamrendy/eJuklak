@@ -23,6 +23,13 @@ import android.widget.ExpandableListView.OnGroupClickListener;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
+/**
+ * This class is the main activity of this project.
+ * When the application starts, onCreate() method in this class is called.
+ *
+ * @author Samuel Halimanto
+ * @version 1.7 (5/12/2015)
+ */
 public class MainActivity extends ActionBarActivity {
  
     private ExpandableListAdapter listAdapter;
@@ -37,7 +44,6 @@ public class MainActivity extends ActionBarActivity {
     private ActionBar actionBar;
     private int IDNOW;
     private long time1, time2;
-    
     private LinearLayout parentLayout;
     
     @Override
@@ -60,9 +66,6 @@ public class MainActivity extends ActionBarActivity {
         settings = webView.getSettings();
         settings.setBuiltInZoomControls(true);
         settings.setSupportZoom(true);
-        //settings.setUseWideViewPort(true);
-        //settings.setJavaScriptEnabled(true);
-        //settings.setJavaScriptCanOpenWindowsAutomatically(true);
         settings.setDisplayZoomControls(false);
         
         //set action bar
@@ -76,21 +79,18 @@ public class MainActivity extends ActionBarActivity {
     
     @Override
     protected void onSaveInstanceState(Bundle outState) {
-    	// TODO Auto-generated method stub
     	super.onSaveInstanceState(outState);
     	webView.saveState(outState);
     }
     
     @Override
     protected void onRestoreInstanceState(Bundle savedInstanceState) {
-    	// TODO Auto-generated method stub
     	super.onRestoreInstanceState(savedInstanceState);
     	webView.restoreState(savedInstanceState);
     }
     
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
-    	// TODO Auto-generated method stub
     	if(webView!=null){
     		parentLayout.removeView(webView);
     	}
@@ -98,7 +98,10 @@ public class MainActivity extends ActionBarActivity {
     	parentLayout.addView(webView);
     }
     
-    public void createMainDrawer() {
+    /**
+     * This method is used to create NavigationDrawer that contains the main chapter(kata pengantar, bab 1, dll)
+     */
+    private void createMainDrawer() {
     	IDNOW = 0;
         expListView = (ExpandableListView) findViewById(R.id.left_drawer);
     	expListView.setGroupIndicator(null);
@@ -121,7 +124,10 @@ public class MainActivity extends ActionBarActivity {
             }
         });
     }
-     
+
+    /**
+     * This method is used to create expandable NavigationDrawer that contains the child from main chapter
+     */
     private void createExpandableDrawer(int id) {
     	IDNOW = id;
     	expListView = (ExpandableListView) findViewById(R.id.left_drawer);
@@ -181,6 +187,9 @@ public class MainActivity extends ActionBarActivity {
     	}
     }
     
+    /**
+     * Method to prepare the list of data to be showed at main drawer
+     */
     private void prepareMainListData() {
     	listDataHeader = new ArrayList<String>();
 		listDataChild = new HashMap<String, List<String>>();
@@ -197,6 +206,10 @@ public class MainActivity extends ActionBarActivity {
 		}
     }
     
+    /**
+     * Method to prepare the list of data to be showed at child/expandable drawer
+     * @param id parent(the head)
+     */
     private void prepareListData(int id) {
 		listDataHeader = new ArrayList<String>();
 		listDataChild = new HashMap<String, List<String>>();
