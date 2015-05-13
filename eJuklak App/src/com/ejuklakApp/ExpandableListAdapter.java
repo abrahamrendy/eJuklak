@@ -15,6 +15,14 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
  
+/**
+ * This class is a customized adapter.
+ * This class is used in navigation drawer
+ *
+ * @author Samuel Halimanto
+ * @version 1.0 (3/26/2015)
+ */
+
 public class ExpandableListAdapter extends BaseExpandableListAdapter {
  
     private Context context;
@@ -23,6 +31,12 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
     private HashMap<String, List<String>> listDataChild;
     private int IDNOW;
  
+    /**
+     * Constructor
+     * @param context Application context
+     * @param listDataHeader List of the head from the list
+     * @param listChildData Relation between head and list of its child
+     */
     public ExpandableListAdapter(Context context, List<String> listDataHeader,
             HashMap<String, List<String>> listChildData) {
         this.context = context;
@@ -30,14 +44,20 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
         this.listDataChild = listChildData;
     }
  
+    //setter
     public void setListDataHeader(List<String> listDataHeader) {
     	this.listDataHeader = listDataHeader;
     }
     
+    //setter
     public void setListDataChild(HashMap<String, List<String>> listDataChild) {
     	this.listDataChild = listDataChild;
     }
     
+    /**
+     * Set what is the ID of the chapter that is shown now
+     * @param IDNOW ID of the chapter
+     */
     public void setIdNow(int IDNOW) {
     	this.IDNOW = IDNOW;
     }
