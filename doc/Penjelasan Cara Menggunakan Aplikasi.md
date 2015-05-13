@@ -11,6 +11,8 @@ Berikut adalah petunjuk penjelasan cara menggunakan aplikasi eJuklak.
 
   ![Tampilan Awal](../res/Screenshot Aplikasi/Tampilan awal.png "Tampilan awal")
 
+  ![Tampilan Awal Landscape](../res/Screenshot Aplikasi/landscape.png "Tampilan awal landscape")
+
 4. Aplikasi mendukung fitur *scroll* dan fitur *zoom* sehingga Anda dapat melakukan *scroll up* atau *down* serta *zoom in* dan *zoom out*.
 
   ![Scroll](../res/Screenshot Aplikasi/Scroll down.png "Scroll")
